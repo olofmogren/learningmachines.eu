@@ -1,0 +1,11 @@
+title: "Learning Machines Seminars"
+description: "Open seminars on machine learning and AI. Live-streamed and hybrid in Sweden."
+url: "https://learningmachines.eu"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+

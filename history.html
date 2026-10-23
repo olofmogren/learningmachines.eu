@@ -1,0 +1,53 @@
+---
+layout: default
+title: Seminar Archive & Recordings
+---
+
+<div class="hero">
+  <div class="container">
+    <h1>Past <span>Recordings</span></h1>
+    <p class="hero-tagline">Watch previous presentations and discussions from our seminar series.</p>
+  </div>
+</div>
+
+<div class="container">
+  <section class="seminars-list">
+    {% assign past = site.data.seminars | where_exp: "item", "item.youtube_id and item.youtube_id != ''" %}
+    
+    {% for seminar in past %}
+      <article class="seminar-card">
+        <div class="seminar-header">
+          <span>Recorded: {{ seminar.date }}</span>
+          <span>📍 {{ seminar.location | default: "Sweden" }}</span>
+        </div>
+        <div class="seminar-body">
+          {% if seminar.photo and seminar.photo != "" %}
+            <img src="{{ seminar.photo }}" alt="{{ seminar.speaker }}" class="speaker-avatar">
+          {% endif %}
+          <div class="seminar-info">
+            <h2 class="seminar-title">{{ seminar.title }}</h2>
+            <div class="speaker-meta">
+              {{ seminar.speaker }}
+              {% if seminar.affiliation and seminar.affiliation != "" %}
+                <span class="affiliation">— {{ seminar.affiliation }}</span>
+              {% endif %}
+            </div>
+            {% if seminar.abstract and seminar.abstract != "" %}
+              <p class="seminar-abstract">{{ seminar.abstract }}</p>
+            {% endif %}
+            
+            <!-- Responsive YouTube Embed -->
+            <div class="video-wrapper">
+              <iframe 
+                src="https://www.youtube-nocookie.com/embed/{{ seminar.youtube_id }}" 
+                title="{{ seminar.title }}" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+              </iframe>
+            </div>
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </section>
+</div>

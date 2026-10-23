@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="{{ '/' | relative_url }}" class="brand-logo">
+      <span class="logo-sub">LEARNING</span>
+      <span class="logo-main">MACHINES</span>
+      <span class="logo-foot">SEMINARS</span>
+    </a>
+    <nav class="nav-links">
+      <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Upcoming</a>
+      <a href="{{ '/history.html' | relative_url }}" class="{% if page.url == '/history.html' %}active{% endif %}">Archive & Recordings</a>
+      <a href="{{ '/about.html' | relative_url }}" class="{% if page.url == '/about.html' %}active{% endif %}">About</a>
+    </nav>
+  </div>
+</header>
