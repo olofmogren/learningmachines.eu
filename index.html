@@ -12,10 +12,8 @@ title: Upcoming Seminars
 
 <div class="container">
   <section class="seminars-list">
-    {% assign upcoming = site.data.seminars | where_exp: "item", "item.youtube_id == nil or item.youtube_id == ''" %}
-    
-    {% if upcoming.size > 0 %}
-      {% for seminar in upcoming %}
+    {% for seminar in site.data.seminars %}
+      {% unless seminar.youtube_id and seminar.youtube_id != "" %}
         <article class="seminar-card">
           <div class="seminar-header">
             <span>📅 {{ seminar.date }} &bull; {{ seminar.time }}</span>
@@ -45,9 +43,7 @@ title: Upcoming Seminars
             </div>
           </div>
         </article>
-      {% endfor %}
-    {% else %}
-      <p style="text-align: center; color: var(--text-muted); margin: 60px 0;">New seminar dates will be announced soon.</p>
-    {% endif %}
+      {% endunless %}
+    {% endfor %}
   </section>
 </div>
