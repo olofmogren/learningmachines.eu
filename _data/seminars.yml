@@ -608,7 +608,7 @@
     focus on spiking neural networks and deep state-space models.  She holds a Master’s
     degree in Mathematics with Honours from the University of Manchester, where she
     completed a four-year master degree with integrated bachelor degree.
-  registration_url: extra2
+  registration_url: registration-link
   youtube_id: 7D6-hBS3cug
   is_cain: false
 - id: '2026-02-05'
@@ -643,7 +643,7 @@
     X-ray techniques for 3D and 4D imaging across scales from micro to nano and timescales
     from seconds to femtoseconds. He frequently uses synchrotron and XFEL facilities
     for his research.
-  registration_url: extra2
+  registration_url: registration-link
   is_cain: false
 - id: '2026-01-22'
   date: '2026-01-22'
@@ -692,7 +692,7 @@
     co-founder and lead AI scientist at Clinsight AB, where she works to translate
     research innovations into clinical tools that can meaningfully impact patient
     care.
-  registration_url: extra2
+  registration_url: registration-link
   youtube_id: kX8bNq0OKkk
   is_cain: false
 - id: '2025-12-11'
