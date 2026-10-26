@@ -82,8 +82,13 @@ title: Upcoming Seminars
       {% if seminar.bio and seminar.bio != "" %}
         <p class="speaker-bio"><strong>Bio:</strong> {{ seminar.bio }}</p>
       {% endif %}
-      {% if seminar.stream_url and seminar.stream_url != "" %}
-        <a href="{{ seminar.stream_url }}" target="_blank" rel="noopener" class="btn-stream">Join Stream / Registration &rarr;</a>
+      <!-- Only display for upcoming seminars if a valid registration URL is present -->
+      {% if seminar.registration_url and seminar.registration_url != "" %}
+        {% unless seminar.registration_url contains "zoom.us/j/" or seminar.registration_url contains "zoom.us/my/" %}
+    <a href="{{ seminar.registration_url }}" target="_blank" rel="noopener noreferrer" class="btn-stream">
+      Register for Seminar &rarr;
+    </a>
+        {% endunless %}
       {% endif %}
     </div>
   </div>

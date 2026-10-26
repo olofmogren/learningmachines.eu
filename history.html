@@ -46,9 +46,18 @@ title: Seminar Archive & Recordings
       {% if seminar.bio and seminar.bio != "" %}
         <p class="speaker-bio"><strong>Bio:</strong> {{ seminar.bio }}</p>
       {% endif %}
-      {% if seminar.stream_url and seminar.stream_url != "" %}
-        <a href="{{ seminar.stream_url }}" target="_blank" rel="noopener" class="btn-stream">Join Stream / Registration &rarr;</a>
-      {% endif %}
+      <!-- Inside history.html seminar-info -->
+
+{% if seminar.youtube_id and seminar.youtube_id != "" %}
+  <div class="video-wrapper">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/{{ seminar.youtube_id }}"
+      title="{{ seminar.title }}"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+{% endif %}
     </div>
   </div>
 </article>
