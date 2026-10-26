@@ -5,18 +5,20 @@ title: Seminar Archive & Recordings
 
 <div class="hero">
   <div class="container">
-    <h1>Past <span>Recordings</span></h1>
-    <p class="hero-tagline">Watch previous presentations and discussions from our seminar series.</p>
+    <h1>Past <span>Seminars</span></h1>
+    <p class="hero-tagline">Browse previous talks, presentations, and recorded discussions from the series.</p>
   </div>
 </div>
 
 <div class="container">
   <section class="seminars-list">
+    {% assign today = 'now' | date: "%Y-%m-%d" %}
+
     {% for seminar in site.data.seminars %}
-      {% if seminar.youtube_id and seminar.youtube_id != "" %}
+      {% if seminar.date < today or seminar.youtube_id and seminar.youtube_id != "" %}
         <article class="seminar-card">
           <div class="seminar-header">
-            <span>Recorded: {{ seminar.date }}</span>
+            <span>📅 {{ seminar.date }}</span>
             <span>📍 {{ seminar.location | default: "Sweden" }}</span>
           </div>
           <div class="seminar-body">
@@ -34,15 +36,17 @@ title: Seminar Archive & Recordings
               {% if seminar.abstract and seminar.abstract != "" %}
                 <p class="seminar-abstract">{{ seminar.abstract }}</p>
               {% endif %}
-              
-              <div class="video-wrapper">
-                <iframe 
-                  src="https://www.youtube-nocookie.com/embed/{{ seminar.youtube_id }}" 
-                  title="{{ seminar.title }}" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                  allowfullscreen>
-                </iframe>
-              </div>
+
+              {% if seminar.youtube_id and seminar.youtube_id != "" %}
+                <div class="video-wrapper">
+                  <iframe
+                    src="https://www.youtube-nocookie.com/embed/{{ seminar.youtube_id }}"
+                    title="{{ seminar.title }}"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                  </iframe>
+                </div>
+              {% endif %}
             </div>
           </div>
         </article>
@@ -50,3 +54,4 @@ title: Seminar Archive & Recordings
     {% endfor %}
   </section>
 </div>
+

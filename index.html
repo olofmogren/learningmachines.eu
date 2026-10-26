@@ -12,7 +12,6 @@ title: Upcoming Seminars
       Technical, open-access seminars focused on the architecture, training dynamics, and deployment of modern AI systems.
     </p>
 
-    <!-- Key seminar highlights -->
     <div class="hero-badges">
       <div class="badge-item">
         <span class="badge-icon">⏱</span>
@@ -24,7 +23,7 @@ title: Upcoming Seminars
       </div>
       <div class="badge-item">
         <span class="badge-icon">🎟</span>
-        <span>Free & Open Access</span>
+        <span>Free &amp; Open Access</span>
       </div>
       <div class="badge-item">
         <span class="badge-icon">💬</span>
@@ -32,7 +31,6 @@ title: Upcoming Seminars
       </div>
     </div>
 
-    <!-- Prominent Hero CTA -->
     <div class="hero-actions">
       <a href="https://form.apsis.one/LEaXXekxp56BEA" target="_blank" rel="noopener noreferrer" class="btn-primary-glow">
         📬 Subscribe for Seminar Updates &rarr;
@@ -48,8 +46,12 @@ title: Upcoming Seminars
   </div>
 
   <section class="seminars-list">
+    {% assign today = 'now' | date: "%Y-%m-%d" %}
+    {% assign count_upcoming = 0 %}
+
     {% for seminar in site.data.seminars %}
-      {% unless seminar.youtube_id and seminar.youtube_id != "" %}
+      {% if seminar.date >= today %}
+        {% assign count_upcoming = count_upcoming | plus: 1 %}
         <article class="seminar-card">
           <div class="seminar-header">
             <span>📅 {{ seminar.date }} &bull; {{ seminar.time | default: "15:00 CET" }}</span>
@@ -79,11 +81,16 @@ title: Upcoming Seminars
             </div>
           </div>
         </article>
-      {% endunless %}
+      {% endif %}
     {% endfor %}
+
+    {% if count_upcoming == 0 %}
+      <div style="text-align: center; padding: 50px 0; color: var(--text-muted);">
+        <p>No upcoming seminars currently scheduled. Check back soon or <a href="/history.html" style="color: var(--accent-cyan);">explore the archive</a>.</p>
+      </div>
+    {% endif %}
   </section>
 
-  <!-- Dedicated Mailing List Banner -->
   <section class="newsletter-banner">
     <div class="newsletter-inner">
       <div class="newsletter-text">
@@ -98,7 +105,6 @@ title: Upcoming Seminars
     </div>
   </section>
 
-  <!-- Audience & Scope Info Callout -->
   <section class="audience-callout">
     <div class="callout-card">
       <h3>Who Should Attend?</h3>
