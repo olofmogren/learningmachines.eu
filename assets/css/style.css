@@ -604,6 +604,30 @@ body.has-hero .site-header.scrolled .brand-link {
   padding-top: 20px;
 }
 
+/* Right-align the organizer column and logos */
+.footer-organizers {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: right;
+}
+
+.organizer-label {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+  text-align: right;
+  width: 100%;
+}
+
+.organizer-logos {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+}
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .seminar-body {
