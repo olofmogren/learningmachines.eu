@@ -1,49 +1,54 @@
 - id: '2027-03-18'
   date: '2027-03-18'
   speaker: PhD candidate Hao Wei
+  title: ''
   affiliation: Technical University of Munich (TUM)
-  location: location
-  photo: portrait
-  stream_url: https://rise.zoom.us/j/62207309827?pwd=M033UKeaIUTuLhT2a5G10DQX84wpz9.1
-  youtube_id: youtube_seminar
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2027-01-28'
   date: '2027-01-28'
   speaker: Nicola Messina
+  title: ''
   affiliation: ISTI-CNR
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2027-01-28-nicola-messina.jpg
-  stream_url: meetinglink
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2027-01-14'
   date: '2027-01-14'
   speaker: Assistant Professor Maria Perez Ortiz
+  title: ''
   affiliation: University College London
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2027-01-14-maria-perez-ortiz.jpg
-  stream_url: https://rise.zoom.us/j/62207309827?pwd=w2QukPZCQG6rwCT7kNgVN9755wY1ai.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-12-17'
   date: '2026-12-17'
   speaker: PhD candidate Lester Jame Miranda
+  title: ''
   affiliation: University of Cambridge
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-12-17-lester-jame-miranda.jpg
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=5L78L9hBcVPOL0TqgjhBDqZYx2VPxD.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-12-03'
   date: '2026-12-03'
   speaker: Post Doc Miguel Costa
+  title: ''
   affiliation: Technical University of Denmark
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-12-03-miguel-costa.jpg
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=jSdbIJQszHTYY3HbamOIwNLTc2sOcf.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-11-05'
   date: '2026-11-05'
   speaker: Researcher Anastasia Kakouri
   title: 'AtmoSTEM: From high-resolution emission mapping to environmental intelligence'
   affiliation: University of Aegean
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-11-05-anastasia-kakouri.png
   abstract: 'The spatial and temporal representation of anthropogenic emissions is
     essential for atmospheric modelling, yet its influence on the predictive performance
@@ -81,15 +86,15 @@
     assessment, population exposure estimation, and environmental health applications.
     She also develops automated and reproducible computational workflows for large-scale
     environmental data processing and analysis.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=U1aLN47pobyNOnOVEcOrFablINOkqv.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-10-22'
   date: '2026-10-22'
   speaker: Post doc Luca Ciampi
   title: 'How machines count: Visual object counting from limited supervision to the
     open world'
   affiliation: ISTI-CNR
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-10-22-luca-ciampi.jpg
   abstract: 'Counting objects in images and videos is a deceptively simple task. Modern
     deep-learning approaches can achieve impressive accuracy, yet they often rely
@@ -132,14 +137,14 @@
     imaging and bio-inspired learning, including biological neural cultures as computational
     reservoirs. His work has received two paper awards; he was named a Key Innovator
     by the European Commission, and his MSCA proposal received a Seal of Excellence.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=Ab0lxAR7KcpHbjL9aRkcNxillhjG0E.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-10-08'
   date: '2026-10-08'
   speaker: PhD candidate Rangel Daroya
   title: Machine perception for scientific measurement from satellite imagery
   affiliation: University of Massachusetts Amherst
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-10-08-rangel-daroya.png
   abstract: 'In many scientific domains, the goal is not simply to classify an image
     or produce a visually plausible segmentation, but to estimate quantities that
@@ -178,14 +183,14 @@
     Rangel received the 2025 AGU Remote Sensing Student Award for RiverScope and passed
     her PhD Portfolio with Distinction. Her work has appeared at CVPR, ICCV, WACV,
     AAAI, and IEEE JSTARS, including a CVPR 2024 Highlight paper.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=Yd8Zsq9LM4t30ViwSbvRf9tqWlMVbX.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-09-24'
   date: '2026-09-24'
   speaker: Associate Professor Ana Lucic
   title: 'Aurora: A foundation model of the Earth system'
   affiliation: University of Amsterdam
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-09-24-ana-lucic.png
   abstract: 'Reliable forecasting of the Earth system is essential for mitigating
     natural disasters and supporting human progress. Traditional numerical models,
@@ -209,13 +214,13 @@
     is a member of the European Laboratory for Learning and Intelligent Systems (ELLIS)
     and the Amsterdam ELLIS Unit. Her work has been published in venues such as Nature,
     ICML, AAAI, AISTATS, CVPR and FAccT.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=uT4GEOwgIRVhkRDyRcdu4T6s8QBLZL.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-09-17'
   date: '2026-09-17'
   speaker: Postdoc Jaime Caballer Revenga
   title: Towards verified tree-level CO2 and H2O physiology, resolved at 30-min resolution
   affiliation: University of Copenhagen
+  time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2026-09-17-jaime-caballer-revenga.jpg
   abstract: 'This project addresses one major challenge in climate science: accurately
@@ -266,17 +271,17 @@
     \ and eddy-covariance observations. \n\nHis work now focuses on (i) applications\
     \ for ecosystem physiology predictive modelling and (ii) method development in\
     \ environmental imaging spectroscopy."
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=pSwLt2XnT9szz7OjrjqJiAE5So1rKa.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-08-27'
   date: '2026-08-27'
   speaker: PhD candidate Ariel Flint Ashery
   title: 'More is different: emergent social conventions and tipping points in AI
     populations'
   affiliation: City St George’s, University of London
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-08-27-ariel-flint-ashery.jpg
-  abstract: ' Social conventions are the foundation of social coordination, shaping
+  abstract: Social conventions are the foundation of social coordination, shaping
     how individuals come together to form a society. In this talk, I will present
     theoretical and experimental findings that demonstrate the spontaneous emergence
     of social norms in LLM populations, as well as the existence of tipping points
@@ -284,7 +289,7 @@
     conventions and highlight how collective biases can emerge even when individual
     agents appear unbiased. I will conclude by stressing how the ability of AI agents
     to develop norms without explicit programming has significant implications for
-    designing AI systems that align with human values and societal goals.'
+    designing AI systems that align with human values and societal goals.
   bio: Ariel Flint is a PhD student in Mathematics at City, University of London.
     He studies self-organisation in decentralised socio-technical systems, with work
     on social norms, coordination and cultural evolution. He also has a broader interest
@@ -294,14 +299,15 @@
     methods from network science and statistical physics in his current research.
     His work has been published in Science Advances and has received international
     media coverage, including features in The Guardian and El País.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=CyQbJH2Qa2xgkJ8Vrx9FNolRIk09EE.1
   youtube_id: Ox1zIWHTnn4
+  is_cain: false
 - id: '2026-06-25'
   date: '2026-06-25'
   speaker: Professor Markus Reichstein
   title: Understanding the complex Earth system with Machine Learning and Hybrid Modelling
   affiliation: Max-Planck-Institute for Biogeochemistry and ELLIS Unit Jena
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-06-25-markus-reichstein.jpg
   abstract: 'The Earth system is a complex, dynamic and strongly interconnected system,
     shaped by interactions between climate, ecosystems, biogeochemical cycles and
@@ -333,14 +339,15 @@
     IPCC Special Report on Climate Extremes (SREX) and was awarded the prestigious
     Gottfried Wilhelm Leibniz Prize in 2020. His groundbreaking collaborative research
     has also been supported by a major European Research Council (ERC) Synergy Grant.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=xXD5G9yesRq5IbaHoLHIyhbfm8rQ06.1
   youtube_id: lPN4aVyfbD8
+  is_cain: false
 - id: '2026-06-11'
   date: '2026-06-11'
   speaker: Professor Gustau Camps-Valls
   title: A Critical Look at Explainable AI
   affiliation: University of Valencia
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-06-11-gustau-camps-valls.png
   abstract: 'I will give a sarcastic and quite op-ed tour trying to explain why XAI
     is misleading us. Everything from SHAP plots to counterfactuals may look trustworthy,
@@ -365,14 +372,15 @@
     Beyond his research, he serves as a convener for the United Nations’ ITU AI for
     Good seminar series and holds visiting positions at the Institut Polytechnique
     de Paris and the Max Planck Institute. https://isp.uv.es
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=WEFnMnnU9BEbRKRunsNTG3mkseN41a.1
   youtube_id: saoF4x7ZpsQ
+  is_cain: false
 - id: '2026-05-28'
   date: '2026-05-28'
   speaker: Postdoc Kelsey Doerksen
   title: 'EarthShift: A benchmark for real-world ditribution shifts in Earth observation'
   affiliation: University of Cape Town and Arizona State University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-05-28-kelsey-doerksen.jpg
   abstract: 'Geospatial Foundation Models claim to offer powerful solutions to simplify
     and accelerate real-world problems, enabling the capabilities to monitor, analyze,
@@ -397,15 +405,16 @@
     her thesis in the Oxford Applied and Theoretical Machine Learning Group on "Applied
     Machine Learning for Earth Systems Science", collaborating with the United Nations,
     European Space Agency and NASA during her PhD.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=UJZ2JnHvqaG1NG0SmQHtfVPMNKCJEP.1
   youtube_id: v8bGOmmITJw
+  is_cain: false
 - id: '2026-05-07'
   date: '2026-05-07'
   speaker: PhD candidate Solmaz Khazaei
   title: Enhanced Flood Detection through Innovative integration of PolSAR, metaheuristic
     optimization, and deep learning-based segmentation
   affiliation: KTH Royal Institute of Technology
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-05-07-solmaz-khazaei.jpg
   abstract: Flood is the most common natural disaster in the world, and can have catastrophic
     impacts on human society and the environment, including infrastructure damage,
@@ -437,14 +446,15 @@
     is particularly interested in transfer learning and building models that generalize
     across different geographic regions. Her work aims to support climate resilience
     through scalable AI-driven geospatial solutions.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=saBrwBAT9lNjgagR8fLtm9YKboaZHh.1
   youtube_id: f4f8p-NWDHg
+  is_cain: false
 - id: '2026-03-26'
   date: '2026-03-26'
   speaker: Assistant Professor Jeppe Rasmussen
   title: 'AI in the wild: How Neural Networks Help Us Understand Our World Through
     Sound'
   affiliation: University of Copenhagen
+  time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2026-03-26-jeppe-rasmussen.webp
   abstract: 'Bioacoustics, the study of nature’s sounds, has long been a powerful
@@ -481,14 +491,15 @@
     revolutionize the monitoring of animal populations. He is currently based at the
     University of Copenhagen working on detecting and classifying vocalizations from
     narwhales in Greenland.'
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=GFBRRjbkCbTyruPKUeuZNE4uxQ2dQ7.1
   youtube_id: 7I1S13S33Pc
+  is_cain: false
 - id: '2026-03-19'
   date: '2026-03-19'
   speaker: PhD candidate Isabelle Tingzon
   title: 'Bridging data gaps in the Global South: Harnessing AI and Earth observation
     in the humanitarian sector'
   affiliation: RISE Research Institutes of Sweden
+  time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2026-03-19-isabelle-tingzon.jpg
   abstract: 'This talk highlights how AI and Earth Observation (EO) are transforming
@@ -522,14 +533,15 @@
     informal refugee settlement detection, and disaster- fragility, conflict, and
     violence assessment, in partnership with humanitarian organizations and non-profits
     in Southeast Asia, Latin America, the Middle East, and the Caribbean.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=R8tRifC8ssApxCK7CCGd8fH993I7KS.1
   youtube_id: vJDXlvI0Tgo
+  is_cain: false
 - id: '2026-02-19'
   date: '2026-02-19'
   speaker: PhD candidate Sanja Karilanova
   title: Bridging Spiking Neural Networks and Deep State-Space Models
   affiliation: Uppsala University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-02-19-sanja-karilanova.jpg
   abstract: Spiking neural networks (SNNs) are biologically inspired, event-driven
     models that are suitable for processing temporal data and offer low-latency, energy-efficient
@@ -555,14 +567,15 @@
     focus on spiking neural networks and deep state-space models.  She holds a Master’s
     degree in Mathematics with Honours from the University of Manchester, where she
     completed a four-year master degree with integrated bachelor degree.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=o8ks7YlubzSvxEMRQVqyBiMOrbp3bS.1
   youtube_id: 7D6-hBS3cug
+  is_cain: false
 - id: '2026-02-05'
   date: '2026-02-05'
   speaker: Senior Lecturer Pablo Villanueva Perez
   title: End-to-end AI+physics reconstruction frameworks for X-ray imaging
   affiliation: Lund University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-02-05-pablo-villanueva-perez.png
   abstract: 'Artificial Intelligence, and particularly deep learning, is transforming
     X-ray imaging by enabling fast, accurate analysis of massive datasets and uncovering
@@ -588,14 +601,14 @@
     X-ray techniques for 3D and 4D imaging across scales from micro to nano and timescales
     from seconds to femtoseconds. He frequently uses synchrotron and XFEL facilities
     for his research.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=czBI0EOyGCVYWRqbb6fMLEGpqYFNjQ.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2026-01-22'
   date: '2026-01-22'
   speaker: Postdoctoral researcher Nita Mulliqi
   title: Towards clinically reliable artificial intelligence for prostate cancer pathology
   affiliation: Karolinska Institute
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-01-22-nita-mulliqi.webp
   abstract: 'Accurate histopathological assessment of prostate biopsies is essential
     for determining prognosis and guiding patient treatment; however, it remains hindered
@@ -636,16 +649,16 @@
     co-founder and lead AI scientist at Clinsight AB, where she works to translate
     research innovations into clinical tools that can meaningfully impact patient
     care.
-  stream_url: https://rise.zoom.us/j/67564688191?pwd=NzjbF0nVBX83eYsfGMeaDegC0RnTHJ.1
   youtube_id: kX8bNq0OKkk
+  is_cain: false
 - id: '2025-12-11'
   date: '2025-12-11'
   speaker: PhD Student Zhengpeng (Frank) Feng
   title: 'TESSERA: precomputed FAIR global pixel embeddings for earth representation
     and analysis'
   affiliation: Cambridge
-  location: location
-  photo: portrait
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: 'Petabytes of satellite Earth Observation (EO) data are freely available
     and can address critical global challenges. However, EO data quality is poor due
     to clouds and variable lighting conditions. To address this, practitioners typically
@@ -666,14 +679,15 @@
     and Technology at the University of Cambridge. His research interests lie at the
     intersection of machine learning and earth sciences, with a particular focus on
     developing self-supervised learning algorithms in remote sensing.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=l2sXJ64ii1lV55mCXtDrzTydGuPVeR.1
   youtube_id: AQhzSBxvhVM
+  is_cain: false
 - id: '2025-11-27'
   date: '2025-11-27'
   speaker: Professor Kalle Åström
   title: From structure from motion to structure from sound
   affiliation: LTH, Lund University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-11-27-kalle-astrom.jpg
   abstract: Within computer vision there has been intense developments on methods
     for the so called structure from motion problem or simultaneous localization and
@@ -699,15 +713,16 @@
     He is the founder of several companies, Neuromathic, Spiideo, Cognimatics and
     Decuma, where Decuma won the EU's "IST grand prize" in 2005. He has been main
     or co-supervisor for 35 PhD students.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=Fp4bAwbTLlAUa78NZb84ijuQuThsoV.1
   youtube_id: GzTXDvapBZE
+  is_cain: false
 - id: '2025-11-20'
   date: '2025-11-20'
   speaker: Researcher Katarzyna Michalowska
   title: Multi-resolution learning with neural operators and long short-term memory
     neural networks
   affiliation: SINTEF
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-11-20-katarzyna-michalowska.jpg
   abstract: 'In real-world applications, collecting large amounts of high-resolution
     data is rarely practical. The cost of specialized equipment, time-intensive measurements,
@@ -744,15 +759,16 @@
     on physics-informed and robust machine learning solutions. The presented work
     is a collaboration between SINTEF and the CRUNCH group at the Division of Applied
     Mathematics at Brown University, USA.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=mENKSYwKSsxwVv3E6dsPyvmNwEcfhE.1
   youtube_id: mFTFRA5sd3M
+  is_cain: false
 - id: '2025-11-13'
   date: '2025-11-13'
   speaker: PhD Student Nora Gourmelon
   title: Self-supervised pre-training for glacier calving front extraction from synthetic
     aperture radar imagery
   affiliation: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-11-13-nora-gourmelon.jpg
   abstract: 'The factors influencing melt at glacier fronts facing the ocean remain
     an active area of research. To better understand these factors, it is essential
@@ -788,14 +804,14 @@
     initiatives. Recognized as an AI Newcomer by the German Informatics Society in
     2023, her interdisciplinary research bridges computer vision, remote sensing,
     and cryospheric science.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=waoqEp3CTaUIf12qGJH3phZ0nzk6Oa.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2025-11-06'
   date: '2025-11-06'
   speaker: PhD Student Felix Köhler
   title: From numerical simulators of PDEs to neural emulators and back
   affiliation: TU Munich
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-11-06-felix-kohler.jpg
   abstract: The potential for computational speedups and tackling unsolved problems
     has motivated the use of neural networks (NNs) for helping solve PDEs. In particular,
@@ -819,15 +835,15 @@
     in fluid or structural mechanics. He holds an M.Sc. in Computational Science &
     Engineering from TUM. Besides research, he works on free educational material
     covering Machine Learning & Simulation on his YouTube channel.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=V00oH84C29zHvOk04bZJF7Exs0MScL.1
-  youtube_id: youtube_seminar
+  is_cain: false
 - id: '2025-10-16'
   date: '2025-10-16'
   speaker: Postdoctoral researcher Lena Stempfle
   title: Interpretable machine learning for prediction with missing values at test
     time
   affiliation: MIT
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-10-16-lena-stempfle.png
   abstract: Missing values are inevitable in real-world healthcare data, yet common
     strategies like imputation or missingness indicators often undermine interpretability.
@@ -846,14 +862,15 @@
     a particular interest in predictions with missing values at test time, time series,
     and causality. Lena’s aims to develop interpretable and accurate models to support
     clinical decision-making.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=7i5vhxykYTRHzjUzZQ4nFBppQEugEx.1
   youtube_id: s5rn4P-jpTM
+  is_cain: false
 - id: '2025-10-09'
   date: '2025-10-09'
   speaker: Researcher Sebastian Hafner
   title: Earth observation and deep learning for urban applications
   affiliation: RISE Research Institutes of Sweden
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-10-09-sebastian-hafner.jpg
   abstract: Urbanization is progressing at an unprecedented rate in many places around
     the world, making Earth observation (EO) a vital tool for monitoring its dynamics
@@ -877,15 +894,16 @@
     in 2024, where he studied deep learning for large-scale urban mapping and change
     detection. He holds a Master’s degree (2019) in Remote Sensing and Computer Science
     and a Bachelor’s degree (2017) in Geography from the University of Zurich.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=IEkEYgTQgBubO0l0DEgaihsDEdtf88.1
   youtube_id: rjPOzPH_CU8
+  is_cain: false
 - id: '2025-09-25'
   date: '2025-09-25'
   speaker: Senior Researcher Sigrid Passano Hellan
   title: Hyperparameter tuning, Bayesian optimisation and applications related to
     climate change
   affiliation: NORCE Norwegian Research Centre
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-09-25-sigrid-passano-hellan.jpg
   abstract: 'If you don’t want to be setting and tuning machine learning model hyperparameters
     such as the learning rate yourself, then hyperparameter tuning is a good alternative.
@@ -906,21 +924,22 @@
     material discovery – finding better materials for solar panels; wind farm layouts
     – deciding where to place turbines; optimal control of renewables – e.g. adjusting
     wind turbine blade angles to current conditions; and environmental monitoring
-    – e.g. finding pollution maxima. '
+    – e.g. finding pollution maxima.'
   bio: Sigrid Passano Hellan is a senior researcher at NORCE Research and the Bjerknes
     Centre for Climate Research in Bergen. She holds a PhD in Data Science from the
     University of Edinburgh, where she worked on Bayesian optimisation, transfer learning,
     hyperparameter optimisation and air pollution monitoring. Her interests combine
     machine learning methodology with environmental applications. Currently, she is
     working on downscaling weather data and forecasting icing on wind turbines.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=Ib2aP7AXfha9f1eZOrDvaik41ZMVZ3.1
   youtube_id: 8hS638bP150
+  is_cain: false
 - id: '2025-09-11'
   date: '2025-09-11'
   speaker: PhD Student Georges Le Bellier
   title: Generative domain adaptation and foundation models for robust Earth observation
   affiliation: CNAM
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-09-11-georges-le-bellier.jpg
   abstract: 'Deep learning for remote sensing plays a crucial role in turning satellite
     and aerial imagery into dependable, real-world insights. However, Earth observation
@@ -954,15 +973,16 @@
     models tailored to remote sensing. His current research combines flow-based methods
     with domain adaptation, aiming to enhance the robustness of EO models to shifting
     data distributions.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=YtQnnfht0sUamFoFbqfgYhpbkvERb8.1
   youtube_id: OAJx99nfplw
+  is_cain: false
 - id: '2025-08-28'
   date: '2025-08-28'
   speaker: PhD Student Markus Pettersson
   title: Debiasing AI predictions for causal inference without fresh ground truth
     data
   affiliation: Chalmers University of Technology
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-08-28-markus-pettersson.jpg
   abstract: 'Machine learning models trained on Earth observation data, particularly
     satellite imagery, have recently shown impressive performance in predicting household-level
@@ -997,14 +1017,15 @@
     and data-driven models can be used to estimate socioeconomic conditions in data-scarce
     regions, and how these maps can support causal analysis in policy and intervention
     design.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=jy9UY79Xu0Ca7Sat9DCO3aReaPEAAH.1
   youtube_id: bgCQwK6a6HQ
+  is_cain: false
 - id: '2025-06-19'
   date: '2025-06-19'
   speaker: Assistant Professor Lily Xu
   title: 'High-stakes decisions from low-quality data: AI decision-making for conservation'
   affiliation: Columbia University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-06-19-lily-xu.jpg
   abstract: Like many of society's grand challenges, biodiversity conservation requires
     effectively allocating and managing our limited resources in the face of imperfect
@@ -1025,14 +1046,15 @@
     supporting rangers in protected areas worldwide, and co-organizes the EAAMO research
     initiative, committed to advancing Equity and Access in Algorithms, Mechanisms,
     and Optimization.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=ASuKwwE1AoYVnnkKzKbZvjGngRJJeK.1
   youtube_id: a2B675quBHo
+  is_cain: false
 - id: '2025-05-22'
   date: '2025-05-22'
   speaker: PhD Student John Martinsson
   title: Efficient and precise annotation of local structures in data
   affiliation: RISE and Lund University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-05-22-john-martinsson.png
   abstract: 'Machine learning models now help scientists analyze vast datasets across
     every branch of science. These models typically improve with more data and larger
@@ -1056,14 +1078,15 @@
     monitoring. A key focus of his research is on streamlining the often labor-intensive
     process of labeling bioacoustic data, and on creating robust models that perform
     effectively even with limited labeled data. More information on his website: johnmartinsson.org.'
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=auJsYDpUHsOLIWiaNRraPO2RKtUL0e.1
   youtube_id: OKZDCabQ16w
+  is_cain: false
 - id: '2025-05-15'
   date: '2025-05-15'
   speaker: Head of Earth System Modelling Peter Dueben
   title: The digital revolution of Earth system modelling
   affiliation: European Centre for Medium-Range Weather Forecasts
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-05-15-peter-dueben.jpg
   abstract: This talk will outline three revolutions that happened in Earth system
     modelling in the past decades. The quiet revolution has leveraged better observations
@@ -1086,14 +1109,15 @@
     Peter is coordinator of the WeatherGenerator Horizon Europe project that aims
     to build a machine-learned foundation model for weather and climate applications
     and has been the coordinator of the MAELSTROM EuroHPC-Joint Undertaking project.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=PciFMKsyRoZEGbIl9x6kz3eaRqwgjQ.1
   youtube_id: vWaiFVLF_fw
+  is_cain: false
 - id: '2025-05-08'
   date: '2025-05-08'
   speaker: PhD student Ghjulia Sialelli
   title: SatML for large-scale above-ground biomass estimation
   affiliation: ETH Zurich
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-05-08-ghjulia-sialelli.jpg
   abstract: 'The combination of remote sensing and machine learning has made it possible
     to map forest properties at an unprecedented scale and resolution. In this presentation,
@@ -1121,14 +1145,15 @@
     current work focuses on high-resolution global mapping of above-ground biomass.
     She is also an organizer of the AI + Environment Summit, a full-day event designed
     to inspire, ignite and innovate work in AI for the environment.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=WC28bTDriZM4JHNNnXFqCzBAaTGWPK.1
   youtube_id: mN0ENzlrUJE
+  is_cain: false
 - id: '2025-04-10'
   date: '2025-04-10'
   speaker: Signal Processing Engineer Beici Liang
   title: 'Protecting music copyrights with MIR and AI: from conventional peak-based
     to representation learning approaches'
   affiliation: Epidemic sound
+  time: 15:00 CET
   location: Room Kruse, Isafjordsgatan 22, Kista
   photo: /assets/images/speakers/2025-04-10-beici-liang.jpg
   abstract: 'Music Information Retrieval (MIR) and AI-driven techniques have played
@@ -1162,15 +1187,16 @@
     more accessible through her popular science writings and active involvement in
     the MIR community. In 2023, she served as one of the Scientific Program Chairs
     for the International Society for Music Information Retrieval (ISMIR) Conference.'
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=Scxk2umSactN6zzIHPtlIihoGlJlGZ.1
   youtube_id: noW-Q2kfb84
+  is_cain: false
 - id: '2025-04-03'
   date: '2025-04-03'
   speaker: PhD candidate Abdul Shaamala
   title: 'Optimising green infrastructure for climate-resilient cities: AI-driven
     approaches to urban cooling'
   affiliation: Queensland University of Technology
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-04-03-abdul-shaamala.jpg
   abstract: 'Green infrastructure (GI) is critical in enhancing urban resilience,
     mitigating heat stress, and improving environmental sustainability. However, optimising
@@ -1194,16 +1220,17 @@
     integrating high-resolution thermal and spatial data to support climate-responsive
     city planning. His work aims to inform data-driven policies for greener, more
     resilient cities.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=EjJ6weNIbp4ZaWLqOOcI6op9qbTcZB.1
   youtube_id: 83XysQtGUDQ
+  is_cain: false
 - id: '2025-03-27'
   date: '2025-03-27'
   speaker: Assistant Professor María J. Molina
-  title: ' Machine learning for Earth system prediction and predictability'
+  title: Machine learning for Earth system prediction and predictability
   affiliation: University of Maryland
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-03-27-maria-j.-molina.jpg
-  abstract: ' Machine learning can be used for Earth system prediction, or to study
+  abstract: 'Machine learning can be used for Earth system prediction, or to study
     the uppermost limit of prediction skill theoretically achievable given the system''s
     initial state or other factors, otherwise known as predictability. In traditional
     numerical weather prediction frameworks, we solve the governing partial differential
@@ -1229,14 +1256,15 @@
     on Earth system prediction, extreme event genesis, and multi-scale climate patterns.
     She emphasizes open-source tools, accessible communication, and interdisciplinary
     collaboration.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=cymVCqOdYKb4YMfo6oRja5zRcHpqg4.1
   youtube_id: buEFjJQ-0pc
+  is_cain: false
 - id: '2025-03-20'
   date: '2025-03-20'
   speaker: Researcher Oriol Nieto
   title: GenAI for sound design
   affiliation: Adobe
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-03-20-oriol-nieto.jpg
   abstract: 'This presentation explores the forefront of generative AI research for
     sound design at Adobe Research. I will provide an overview of Latent Diffusion
@@ -1275,14 +1303,15 @@
     develop relevant open-source MIR packages such as librosa, mir-eval, and MSAF;
     contributed to PyTorch; and plays guitar, violin, cajón, and sings (and screams)
     in his spare time.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=EVYZL9A4YpsVZA9Krwa5YacYdZMzxA.1
   youtube_id: AbFT6IJC9cM
+  is_cain: false
 - id: '2025-03-13'
   date: '2025-03-13'
   speaker: Assistant Professor Sherrie Wang
   title: Reliable conclusions from remote sensing maps
   affiliation: MIT
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-03-13-sherrie-wang.jpg
   abstract: 'Remote sensing maps are used to estimate regression coefficients relating
     environmental variables, such as the effect of conservation zones on deforestation.
@@ -1313,14 +1342,15 @@
     Computational and Mathematical Engineering from Stanford University, where she
     was advised by David Lobell and benefited from mentors at the Center on Food Security
     and the Environment and the Sustainability and AI Lab.'
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=GLX50iGdw4tEG7bNkAF8XGSquJeQrV.1
   youtube_id: -o9x_wwg8mQ
+  is_cain: false
 - id: '2025-03-06'
   date: '2025-03-06'
   speaker: Assistant Professor Atakan Aral
   title: Edge AI and IoT-Driven Water Quality Monitoring
   affiliation: University of Vienna
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-03-06-atakan-aral.jpg
   abstract: 'The integration of Edge Computing and Artificial Intelligence (i.e.,
     Edge AI) unlocks new possibilities for remote monitoring of water quality across
@@ -1344,13 +1374,14 @@
     University (2016). Atakan has been granted two EIC Pathfinder CHIST-ERA projects
     in 2021 and 2024 as international coordinator and national PI, respectively, with
     a total funding value of over €2.2M.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=iR4UWYboSERXvzP5JG9BWV3su8PJfW.1
   youtube_id: x91bv6IJkck
+  is_cain: false
 - id: '2025-02-20'
   date: '2025-02-20'
   speaker: Researcher Abdulhakim Abdi
   title: Tech-informed nature conservation - are we there yet?
   affiliation: Lund University
+  time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2025-02-20-abdulhakim-abdi.jpg
   abstract: In the face of a global biodiversity crisis, the ability to efficiently
@@ -1373,15 +1404,16 @@
     have a PhD in Physical Geography and Ecosystem Science and an MSc in Geospatial
     Technologies. Currently, I am a senior researcher at the Center for Environmental
     and Climate Science, Lund University.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=WLNbIraFLQdgnCdXG2mqlNrYbSCJUN.1
   youtube_id: Gs3Tcfec6iY
+  is_cain: false
 - id: '2025-02-06'
   date: '2025-02-06'
   speaker: Researcher Benjamin Cretois
   title: 'Leveraging AI for Large-Scale Acoustic Biodiversity Monitoring: Insights
     from TABMON'
   affiliation: Norwegian Institute for Nature Research
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-02-06-benjamin-cretois.jpg
   abstract: 'Advancing biodiversity monitoring is crucial for meeting the EU Biodiversity
     Strategy targets and addressing gaps in current ecological assessments. However,
@@ -1411,14 +1443,15 @@
     (NINA), working at the interface of artificial intelligence, statistics, and biodiversity
     conservation. His work primarily focuses on developing deep learning tools to
     better analyze bioacoustic data.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=zYCr1brygacBa1opkT7BaiYf7Wwt4b.1
+  is_cain: false
 - id: '2025-01-30'
   date: '2025-01-30'
   speaker: PhD student Amal Nammouchi
   title: 'Leveraging AI for Climate Resilience in Africa: Challenges, Opportunities,
     and the Need for Collaboration'
   affiliation: Karlstad University and AfriClimate AI
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-01-30-amal-nammouchi.jpg
   abstract: As climate change issues become more pressing, their impact in Africa
     calls for urgent, innovative solutions tailored to the continent’s unique challenges.
@@ -1437,14 +1470,15 @@
     leadership experience in community building and international development, Amal
     is also an award-winning entrepreneur dedicated to transforming research into
     impactful real-world solutions.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=XyKiEvJXETBiia2rZOwYXgnUUE3P86.1
   youtube_id: 5h5ksMKEG5Q
+  is_cain: false
 - id: '2025-01-23'
   date: '2025-01-23'
   speaker: PhD candidate Newton Mwai Kinyanjui
   title: Improving treatment personalization with structures in sequential decision
     making
   affiliation: Chalmers University of Technology
+  time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2025-01-23-newton-mwai-kinyanjui.jpg
   abstract: 'Personalizing treatments for patients involves a period during which
@@ -1473,12 +1507,13 @@
     sequential decision making in healthcare using historical data. Prior to joining
     Chalmers, he earned a Master of Science in Electrical and Computer Engineering
     from Carnegie Mellon University.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=yg0tPLHCv1Tp5QJHzhQg5avVOP1sHF.1
+  is_cain: false
 - id: '2025-01-16'
   date: '2025-01-16'
   speaker: Chief Scientist Oscar Täckström
   title: From Enterprise Search to Intelligent Agents
   affiliation: Sana Labs
+  time: 15:00 CET
   location: Isafjordsgatan 22, Kista
   photo: /assets/images/speakers/2025-01-16-oscar-tackstrom.jpg
   abstract: 'The landscape of enterprise knowledge access is rapidly evolving from
@@ -1508,13 +1543,14 @@
     AI. Its products are trusted by leading enterprises like Merck, Hinge Health,
     Electrolux, and Svea Solar. Backed by top-tier investors including NEA, Menlo
     Ventures, and EQT Ventures, Sana has raised over $130 million to date.'
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=luata0XvCN5rUFdMXvJSt5uwyv35jd.1
+  is_cain: false
 - id: '2024-11-28'
   date: '2024-11-28'
   speaker: PhD candidate Alireza Taheri Dehkordi
   title: Estimation of water quality parameters using remote sensing data and machine
     learning models
   affiliation: Lund University
+  time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-11-28-alireza-taheri-dehkordi.jpg
   abstract: The global decline in water quality, exacerbated by climate change and
@@ -1532,14 +1568,15 @@
     through optical remote sensing. He is currently working on applying advanced models
     to extract more accurate, large-scale hydrological insights from these diverse
     data sources.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=tsiPdijGBf0nVVwlOSuDBJG0jRaB3r.1
   youtube_id: S0guqSER0co
+  is_cain: false
 - id: '2024-11-21'
   date: '2024-11-21'
   speaker: Adjunct Professor Alp Kucukelbir
   title: Artificial Intelligence for Climate Change Mitigation
   affiliation: Columbia University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-11-21-alp-kucukelbir.jpg
   abstract: "Artificial intelligence (AI) has the potential to make very significant\
     \ contributions to climate change mitigation. The complexity and scale of the\
@@ -1559,14 +1596,15 @@
     at COP29. He holds a Ph.D. from Yale University, where his research won a best
     thesis award. He is part of the core team on entrepreneurship at Climate Change
     AI.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=SNUhf01l7KaL2jNoKNWk8baB5pVMEM.1
   youtube_id: n4uzazl1g4A
+  is_cain: false
 - id: '2024-11-07'
   date: '2024-11-07'
   speaker: PhD candidate Joel Oskarsson
   title: Frontiers in machine learning for weather forecasting
   affiliation: Linköping University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-11-07-joel-oskarsson.jpg
   abstract: Recent years have seen rapid progress in using machine learning models
     for weather forecasting. These models show impressive performance, matching or
@@ -1585,13 +1623,14 @@
     learning. In his research he develops machine learning methods for data with spatial-,
     temporal- and graph-structure, including combinations of these. He is also interested
     in applications of these methods to earth system modeling. https://joeloskarsson.github.io/
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=AHgzB8G4YI5j8yHmwfB1rLBiHRvXF8.1
   youtube_id: b2B9DYpFprc
+  is_cain: false
 - id: '2024-10-24'
   date: '2024-10-24'
   speaker: Assistant Professor Ankit Kariryaa
   title: Deep Learning for digital twins of individual trees
   affiliation: University of Copenhagen
+  time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-10-24-ankit-kariryaa.jpg
   abstract: Recent advances in remote sensing and machine learning have made it possible
@@ -1615,13 +1654,14 @@
     in 2020 with highest distinction. He is deeply passionate about advancing machine
     learning techniques to address environmental challenges and combat the climate
     crisis
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=BKfkHfy4O4CNMPXgLOgEP2bxClXiZl.1
+  is_cain: false
 - id: '2024-10-17'
   date: '2024-10-17'
   speaker: Associate professor Matthias Obst
   title: Digital Twins & observation systems for monitoring marine biodiversity and
     change
   affiliation: University of Gothenburg
+  time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2024-10-17-matthias-obst.jpg
   abstract: Biological monitoring needs to improve radically to serve our understanding
@@ -1655,12 +1695,13 @@
     a commercial branch (www.seanalytics.se) for DNA-based monitoring. Their tools
     and services are used in both in evolutionary biology as well as conservation
     research.'
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=lFbZ7lWXZOI7BCWITIWHPabalNfisn.1
+  is_cain: false
 - id: '2024-10-03'
   date: '2024-10-03'
   speaker: PhD candidate Jakob Ambsdorf
   title: Medical image analysis with limited labels
   affiliation: University of Copenhagen & Pioneer Centre for AI
+  time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-10-03-jakob-ambsdorf.jpg
   abstract: 'The application of Deep Learning to Medical Imaging has largely been
@@ -1692,13 +1733,14 @@
     University of Copenhagen and the Pioneer Centre for AI, working on self-supervised
     learning for fetal ultrasound imaging with a focus on explainability and anomaly
     detection applications.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=DskXgEH3oeY2mr90ba4PNJStbmwXFq.1
+  is_cain: false
 - id: '2024-09-26'
   date: '2024-09-26'
   speaker: Postdoc Charlie Fieseler
   title: How to build a brain
   affiliation: University of Vienna
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-09-26-charlie-fieseler.jpg
   abstract: 'A fundamental problem in neuroscience is how to design a brain to quickly
     achieve robust behavior while processing chaotic sensory input. Fortunately, neuroscience
@@ -1725,13 +1767,14 @@
     neuronal activity using data-driven control theory. He is interested in developing
     practical pipelines for analyzing terabyte scale microscopy data, and in analyzing
     minimal brains and understanding their design principles.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=zkQFcUMgALNJHZe1KrTJaXjpABMfSB.1
+  is_cain: false
 - id: '2024-09-19'
   date: '2024-09-19'
   speaker: PhD student Mélisande Teng
   title: Species distribution modeling using remote sensing and citizen science data
   affiliation: MILA and Universite de Montreal
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-09-19-melisande-teng.jpg
   abstract: 'Biodiversity is declining at an unprecedented rate, impacting ecosystem
     services and human wellbeing. A first step towards guiding biodiversity conservation
@@ -1763,12 +1806,13 @@
     communities and the general public. She holds a MSc in Mathematics, Vision and
     Learning (MVA) from ENS Paris-Saclay and a Msc in Management and Social Entrepreneurship
     from ESSEC Business School.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=Tl9GwQRafQYTAx5t2fHP8jkv3DviLW.1
+  is_cain: false
 - id: '2024-09-05'
   date: '2024-09-05'
   speaker: Researcher Smita Chakraborty
   title: 'AI-SAXS: Decoding Structural Complexity with Intelligent Scattering Analysis'
   affiliation: RISE Research Institutes of Sweden
+  time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-09-05-smita-chakraborty.jpg
   abstract: The AI-SAXS project explores the possibilities of using machine learning
@@ -1788,13 +1832,14 @@
     where her doctoral thesis focused on extending the Lund String Model for heavy
     ion collisions at particle colliders such as CERN. Her current research interests
     are physics-informed machine learning, ML for earth observation, and quantum computation.
-  stream_url: https://rise.zoom.us/j/69691371971?pwd=N9ubZA8VW4tafcuaRtvSQS9Nmc8YTz.1
+  is_cain: false
 - id: '2024-05-30'
   date: '2024-05-30'
   speaker: Senior Lecturer Jonas Hentati Sundberg
   title: Sensors and AI in seabird research and monitoring
   affiliation: Swedish University of Agricultural Sciences
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-05-30-jonas-hentati-sundberg.jpg
   abstract: New sensor technologies and Artificial intelligence can speed up learning
     about species and populations and increase the utility of ecological field studies
@@ -1820,14 +1865,15 @@
     guillemot), fish stocks and fisheries, and dynamics of linked social-ecological
     systems (such as fisheries) and the role of management in shaping fisheries and
     other resource use systems. https://www.slu.se/cv/jonas-hentati-sundberg/'
-  stream_url: https://rise.zoom.us/j/208117140?pwd=AxetQ9b1Y25kedAyGVw2QYf79bVyn6.1
+  is_cain: false
 - id: '2024-05-23'
   date: '2024-05-23'
   speaker: Shruti Nath
   title: 'Monthly climate model emulators: lightweight tools for agile exploration
     of future climate uncertainties'
   affiliation: University of Oxford and Climate Analytics
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-05-23-shruti-nath.png
   abstract: Climate models lay the foundation on which we can explore future climate
     scenarios and the impacts of anthropogenic greenhouse gas (GHG) emissions. They
@@ -1851,14 +1897,15 @@
     she explored a range of statistical methods to approximate the uncertainty dimensions
     surrounding future climate scenarios. Dr. Nath is currently based at the University
     of Oxford as a Postdoctoral researcher.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=MmFBeXJqVzh1MEFNOGl6aUdkUGZRdz09
+  is_cain: false
 - id: '2024-05-16'
   date: '2024-05-16'
   speaker: Research fellow Mikolaj Czerkawski
   title: Geographical Guidance in the Era of Large-Scale Earth Observation Data and
     AI
   affiliation: European Space Agency
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-05-16-mikolaj-czerkawski.jpg
   abstract: The current scale of available Earth observation data provides an unprecedented
     perspective on planet Earth. However, with the ever-expanding volumes of data
@@ -1881,13 +1928,14 @@
     Strathclyde in Glasgow, United Kingdom, and the Ph.D. degree in 2023 at the same
     institution, specialising in applications of computer vision to Earth observation
     data. Homepage: https://mikonvergence.github.io/'
-  stream_url: https://rise.zoom.us/j/208117140?pwd=bjJKSUdyQThNYkhrT2pHQmlKcVF1UT09
+  is_cain: false
 - id: '2024-04-18'
   date: '2024-04-18'
   speaker: Assistant Professor Tobias Andermann
   title: Spatial biodiversity modeling with remote sensing and AI
   affiliation: Uppsala University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-04-18-tobias-andermann.png
   abstract: Convolutional Neural Networks (CNNs) allow the seamless integration of
     multiple complex and heterogenous data types, making them very suitable tools
@@ -1916,13 +1964,14 @@
     machine learning, with the mission to provide a more comprehensive view on the
     distribution of biodiversity, including hidden diversity of inconspicuous and
     even undescribed species through the use of environmental DNA.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=OWx3bUczUW10M3RVRmoyYlladWN5UT09
+  is_cain: false
 - id: '2024-04-11'
   date: '2024-04-11'
   speaker: PhD Candidate Alouette van Hove
   title: Guiding drones by information gain
   affiliation: University of Oslo
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-04-11-alouette-van-hove.jpg
   abstract: 'Accurately estimating the location and strength of greenhouse gas sources
     remains a significant challenge in climate science, contributing to uncertainties
@@ -1948,7 +1997,7 @@
     inference to estimate greenhouse gas fluxes using drone observations. She is interested
     in computational methods and the application of machine learning techniques to
     address environmental problems.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=ZXBvRjlseUZIZjdsRHBTR1RqQkcxQT09
+  is_cain: false
 - id: '2024-04-04'
   date: '2024-04-04'
   speaker: Senior Research Scientist Karsten Kreis
@@ -1956,7 +2005,7 @@
     3D and 4D Synthesis'
   affiliation: NVIDIA Research
   time: '16:00'
-  location: location
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-04-04-karsten-kreis.jpg
   abstract: We are currently witnessing a generative AI revolution, not only in language
     modeling, but also in the visual domain. While only a decade ago the generation
@@ -1986,13 +2035,14 @@
     did his master’s in quantum information theory and his Ph.D. in computational
     and statistical physics, developing multiscale molecular dynamics simulation methods.
     See his website https://karstenkreis.github.io/ for more details.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=bU9QNldSQ2pzM0F2MENoTUFBVVc4Zz09
+  is_cain: false
 - id: '2024-03-28'
   date: '2024-03-28'
   speaker: Assistant Professor Yonghao Xu
   title: Machine learning for remote sensing
   affiliation: Linköping University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-03-28-yonghao-xu.jpg
   abstract: 'Recent years have witnessed significant advancements in machine learning
     for remote sensing and Earth observation. However, there are still many challenges
@@ -2019,14 +2069,15 @@
     Since 2022, he has been working as the co-lead of the Benchmarking Working Group
     in the IEEE GRSS Image Analysis and Data Fusion Technical Committee. His research
     interests include remote sensing, computer vision, and machine learning.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=YW1LRTBDM2RQa1hubVBNWSsvTERvQT09
+  is_cain: false
 - id: '2024-03-21'
   date: '2024-03-21'
   speaker: Postdoctoral Researcher Fredrik Gustafsson
   title: How reliable is your regression model's uncertainty under real-world distribution
     shifts?
   affiliation: Karolinska Institutet
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-03-21-fredrik-gustafsson.jpg
   abstract: 'Regression is a fundamental machine learning task with many important
     applications within computer vision and other domains. In general, it entails
@@ -2059,13 +2110,14 @@
     in 2023 from Uppsala University for the thesis "Towards Accurate and Reliable
     Deep Regression Models", and received his MSc in Electrical Engineering from Linköping
     University in 2018.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=WnNnRUVZTmtvNEpOallYOTYzSTRDUT09
+  is_cain: false
 - id: '2024-03-14'
   date: '2024-03-14'
   speaker: PhD candidate Santiago Martinez Balvanera
   title: 'Data-driven bat monitoring: leveraging machine learning for effective solutions'
   affiliation: University College London
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-03-14-santiago-martinez-balvanera.jpg
   abstract: 'There is a growing need for innovative and effective tools for large-scale
     biodiversity monitoring to address the biodiversity crisis. Machine Learning (ML)
@@ -2098,13 +2150,14 @@
     identification. Additionally, he contributes to open-source software tooling for
     computational bioacoustics and advocates for data standardization and sharing
     practices.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=NUl0ZkJKbXdOUDVqazJtMDBMdVFMdz09
+  is_cain: false
 - id: '2024-02-22'
   date: '2024-02-22'
   speaker: Assistant Professor Alexander Mathis
   title: Measuring behavior and modeling the brain with machine learning
   affiliation: EPFL
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-02-22-alexander-mathis.jpg
   abstract: Quantifying behavior is crucial for many applications across the life
     sciences and engineering. Videography provides easy methods for the observation
@@ -2125,26 +2178,31 @@
     control. Previously, he was a Marie-Curie Fellow at Harvard University and the
     University of Tübingen. He completed his doctorate training at Ludwig Maximilians
     University in Munich (LMU), after studying mathematics at LMU.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=RloxWHBrY2ZReWJ2S0xNUzcxbExwUT09
+  is_cain: false
 - id: '2024-02-08'
   date: '2024-02-08'
   speaker: Senior NLP Researcher Liane Guillou
+  title: ''
   affiliation: RISE Research Institutes of Sweden
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-02-08-liane-guillou.jpg
-  stream_url: meetinglink
+  is_cain: false
 - id: '2024-01-25'
   date: '2024-01-25'
   speaker: Professor Joakim Lindblad
+  title: ''
   affiliation: Uppsala University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-01-25-joakim-lindblad.jpg
-  stream_url: https://rise.zoom.us/j/208117140?pwd=M0piNlMxZGVMa2RZWkFibHd4TGJwdz09
+  is_cain: false
 - id: '2024-01-18'
   date: '2024-01-18'
   speaker: Professor Serge Belongie
   title: Challenges in Fine-Grained Image Analysis
   affiliation: University of Copenhagen
+  time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2024-01-18-serge-belongie.jpg
   abstract: Fine-grained image analysis (FGIA) is a longstanding and fundamental problem
@@ -2169,13 +2227,14 @@
     Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review “Innovators
     Under 35” Award, and the Helmholtz Prize for fundamental contributions in Computer
     Vision. He is a member of the Royal Danish Academy of Sciences and Letters.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=c2U5RDR0WnpzU041dGNISVdhNUkyQT09
+  is_cain: false
 - id: '2023-12-07'
   date: '2023-12-07'
   speaker: Associate Professor Stefan Bauer
   title: Neural causal models
   affiliation: TU Munich
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-12-07-stefan-bauer.jpg
   abstract: Deep neural networks have achieved outstanding success in many tasks ranging
     from computer vision, to natural language processing, and robotics. However such
@@ -2195,7 +2254,7 @@
     of London. As an organizer of competitions for the application and development
     of AI, such as drug discovery or the real-robot-challenge.com, he advocates for
     the democratization and transparency of machine learning research.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=ZndEZ0RTV1UwTjN6bWZWWm4vRU5ydz09
+  is_cain: false
 - id: '2023-11-30'
   date: '2023-11-30'
   speaker: Postdoctoral fellow Ben Weinstein
@@ -2203,7 +2262,7 @@
     going?
   affiliation: University of Florida
   time: '16:00'
-  location: location
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-11-30-ben-weinstein.jpg
   abstract: Ecology is undergoing rapid transformation in data collection. The broad
     adoption of automated tools for ecological monitoring has created enormous datasets
@@ -2229,14 +2288,15 @@
     the mechanisms that generate, maintain, and preserve biodiversity. Specifically,
     this includes the ecology of species interactions, hierarchical Bayesian models
     for ecological predictions, and machine learning for biodiversity image analysis.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=aWJsbnIyai92RUk1cjcrcFMxWDROUT09
+  is_cain: false
 - id: '2023-11-23'
   date: '2023-11-23'
   speaker: Senior Researcher Alisa Devlic
   title: Design of superhuman racing AI agent, Gran Turismo Sophy, trained through
     deep reinforcement learning
   affiliation: Sony AI
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-11-23-alisa-devlic.jpg
   abstract: Many potential applications of artificial intelligence involve making
     real-time decisions in physical systems while interacting with humans. Automobile
@@ -2267,14 +2327,15 @@
     first racing agent that can outperform the world’s best e-sports drivers and published
     results in the Nature journal. She started working in the field of Reinforcement
     Learning in 2020, when she joined Sony AI.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=eTFBWXNlRFNQTTlDZWNHeUVKc282QT09
+  is_cain: false
 - id: '2023-11-16'
   date: '2023-11-16'
   speaker: speakertitle Jonas Hellgren
   title: Reinforcement learning - theory, toy problems from Open AI Gym, and application
     examples
   affiliation: RISE Research Institutes of Sweden
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-11-16-jonas-hellgren.jpg
   abstract: 'Reinforcement Learning (RL) is a paradigm of machine learning that focuses
     on training agents to make sequential decisions in an environment. This presentation,
@@ -2308,13 +2369,14 @@
     in the application of reinforcement learning. In 2021, he received the prestigious
     Volvo Group Inventor Award, which recognized his contributions to a patent involving
     the use of reinforcement learning for coordinating multiple autonomous vehicles.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=c0tQUXBNbUhXS0ZtRGFSSTc0SDFRQT09
+  is_cain: false
 - id: '2023-11-09'
   date: '2023-11-09'
   speaker: Professor Nataša Sladoje
   title: 'Automated alignment of multimodal images: To (deep) learn – or not?'
   affiliation: Uppsala University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-11-09-natasa-sladoje.jpg
   abstract: 'Multimodal imaging gives an opportunity to collect diverse and complementary
     information about a specimen, enabling a deeper understanding of complex interactions
@@ -2345,14 +2407,15 @@
     image processing and analysis, mostly driven by applications within medicine and
     bio-medicine. Her research has been funded by, among others, EU Horison 2020,
     Swedish Research Council, VINNOVA, and Cancerfonden (Swedish Cancer Society).  Her
-    recent work is particularly focused on robust image registration approaches. '
-  stream_url: https://rise.zoom.us/j/208117140?pwd=emlLa0NQeVRVaGpMcVdWTlB5QkZ2QT09
+    recent work is particularly focused on robust image registration approaches.'
+  is_cain: false
 - id: '2023-11-02'
   date: '2023-11-02'
   speaker: Assistant Professor Priya Donti
   title: Optimization-in-the-loop ML for energy and climate
   affiliation: MIT and Climate Change AI
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-11-02-priya-donti.jpg
   abstract: Addressing climate change will require concerted action across society,
     including the development of innovative technologies. While methods from machine
@@ -2383,13 +2446,14 @@
     Fellowship, and best paper awards at ICML (honorable mention), ACM e-Energy (runner-up),
     PECI, the Duke Energy Data Analytics Symposium, and the NeurIPS workshop on AI
     for Social Good.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=SENUZTZ4SDdtc0tvcFdkNzlUQ2tNUT09
+  is_cain: false
 - id: '2023-10-19'
   date: '2023-10-19'
   speaker: Researcher Valentin De Bortoli
   title: Diffusion Schrödinger Bridge Matching
   affiliation: Google Deepmind
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-10-19-valentin-de-bortoli.jpg
   abstract: Solving transport problems, i.e. finding a map transporting one given
     distribution to another, has numerous applications in machine learning. Novel
@@ -2415,13 +2479,14 @@
     deep learning for data generation. He defended his PhD at ENS (École normale supérieure
     Paris-Saclay), and has worked as a PostDoc at University of Oxford and a research
     scientist at CNRS (Centre national de la recherche scientifique).
-  stream_url: https://rise.zoom.us/j/208117140?pwd=aHBKS2R1OVdTNlBML0ZJRzdmWTUrdz09
+  is_cain: false
 - id: '2023-10-05'
   date: '2023-10-05'
   speaker: Professor Klaus-Robert Müller
   title: Machine Learning and AI for the Sciences — Towards Understanding
   affiliation: TU Berlin
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-10-05-klaus-robert-muller.jpg
   abstract: In recent years, Machine Learning (ML) and Artificial Intelligence (AI)
     methods have begun to play a more and more enabling role in the sciences and in
@@ -2455,12 +2520,13 @@
     in the cross-disciplinary area. His research interests are intelligent data analysis
     and Machine Learning in the sciences (Neuroscience (specifically Brain-Computer
     Interfaces, Physics, Chemistry) and in industry.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=M0RJVE5XNVRCQlFCZ0tXS2xhRkxrUT09
+  is_cain: false
 - id: '2023-09-28'
   date: '2023-09-28'
   speaker: Researcher Johan Östman
   title: 'The reality of federated learning: from life sciences to finance and beyond'
   affiliation: AI Sweden
+  time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls backe 4)
   photo: /assets/images/speakers/2023-09-28-johan-ostman.jpg
   abstract: 'Federated learning is a machine learning paradigm that promises to revolutionize
@@ -2497,12 +2563,13 @@
     AstraZeneca, and RISE. He is the project initiator and principal investigator
     in a project on federated learning to combat anti-money laundering together with
     two of the largest banks in Sweden.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=UDBvUWdCSzhxbG1EUmEwSkE3SHNMZz09
+  is_cain: false
 - id: '2023-09-21'
   date: '2023-09-21'
   speaker: Postdoc Nico Lang
   title: Global vegetation monitoring with probabilistic deep learning
   affiliation: University of Copenhagen
+  time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2023-09-21-nico-lang.jpg
   abstract: Mapping forest structure on a global scale is an important component for
@@ -2533,13 +2600,14 @@
     spaceborne LIDAR. His current research interests include quantifying the uncertainty
     in such estimates and learning from imbalanced data, which are ubiquitous challenges
     when working with real-world data. Website: https://langnico.github.io/'
-  stream_url: https://rise.zoom.us/j/208117140?pwd=ZGcwODVCeGRjWmFhUkVudGtKaFhtUT09
+  is_cain: false
 - id: '2023-09-14'
   date: '2023-09-14'
   speaker: Associate Professor Virginia Smith
   title: Evaluating Large-Scale Learning Systems
   affiliation: CMU
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-09-14-virginia-smith.jpg
   abstract: To deploy machine learning models in practice it is critical to have a
     way to reliably evaluate their effectiveness. Unfortunately, the scale and complexity
@@ -2562,12 +2630,13 @@
     Award, MIT TR35 Innovator Award, Intel Rising Star Award, and faculty awards from
     Google, Apple, and Meta. Prior to CMU, Virginia was a postdoc at Stanford University
     and received a Ph.D. in Computer Science from UC Berkeley.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=MWwvQXpId012U2pNMDc3TlgrSXQ5UT09
+  is_cain: false
 - id: '2023-09-07'
   date: '2023-09-07'
   speaker: PhD candidate Adam Breitholtz
   title: Unsupervised domain adaptation by learning using privileged information
   affiliation: Chalmers University of Technology
+  time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
   photo: /assets/images/speakers/2023-09-07-adam-breitholtz.jpg
   abstract: Successful unsupervised domain adaptation (UDA) is guaranteed only under
@@ -2587,12 +2656,13 @@
     by Fredrik D. Johansson. He has a MSc in Engineering Mathematics from Chalmers
     University of Technology. Adam’s research is focused on the theory of Domain Adaptation
     and the underlying assumptions related to that.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=TlovOWE1KzFJbzk0QW9QV2JEVEordz09
+  is_cain: false
 - id: '2023-08-31'
   date: '2023-08-31'
   speaker: PhD candidate Zahra Taghiyar Renan
   title: From domain adaptation to federated learning
   affiliation: Halmstad University
+  time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
   photo: /assets/images/speakers/2023-08-31-zahra-taghiyar-renan.jpg
   abstract: 'In recent years, data-driven methods have received increasing attention
@@ -2634,13 +2704,15 @@
     and Federated Learning. Through her studies, she, by proposing new Domain Adaptation
     and Federated Learning methods, has effectively addressed the problems within
     computer network security and Predictive Maintenance.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=SHFHbHY2VXFNSkt6NFF2WkFPQ3VnQT09
+  is_cain: false
 - id: '2023-05-25'
   date: '2023-05-25'
   speaker: Postdoc Puzhao Zhang
   title: Multi-Source Satellite Remote Sensing for Large-Scale Wildfire Burned Area
     Mapping Using Deep Learning
   affiliation: KTH
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-05-25-puzhao-zhang.jpg
   abstract: Wildfires are growing in intensity, frequency and extent around the globe,
     satellite remote sensing provides a cost-effective way to monitor wildfires and
@@ -2664,14 +2736,15 @@
     issue “Multi-source Data with Remote Sensing Techniques” for the journal Remote
     Sensing. His research interests include satellite remote sensing big data analytics,
     geospatial machine learning, and environmental change monitoring.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=WlBtT1AwVGhCYkYyYmpXNnNFK2dvUT09
+  is_cain: false
 - id: '2023-05-11'
   date: '2023-05-11'
   speaker: PhD candidate Jonathan Sauder
   title: Unsupervised Deep Learning-Based 3D Mapping from Video and its Applications
     to Underwater Mapping
   affiliation: École polytechnique fédérale de Lausanne (EPFL)
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-05-11-jonathan-sauder.jpg
   abstract: 'As deep learning has revolutionized many areas of computer vision in
     recent years, conventional computer vision methods have held up in 3D mapping
@@ -2697,13 +2770,14 @@
     degree in computer science with a focus on machine learning. In particular, his
     areas of interest were the intersection of optimization theory and signal processing
     with neural networks, as well as large-scale 3D deep learning.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=cnpOSUptWmlpT0wxYklxcSt2UWJRQT09
+  is_cain: false
 - id: '2023-05-04'
   date: '2023-05-04'
   speaker: Post Doctoral Researcher Ida Arvidsson
   title: Applications of AI in Medical Image Analysis
   affiliation: Lund University
-  location: location
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-05-04-ida-arvidsson.jpg
   abstract: 'Many medical examinations are done based on various types of images.
     By using machine learning to analyse these images, some assessments could be done
@@ -2732,13 +2806,14 @@
     of prostate cancer), dermatology (classification of skin cancer) and radiology
     (classification of breast cancer, detection of coronary artery disease and prediction
     of Alzheimer's disease).
-  stream_url: https://rise.zoom.us/j/208117140?pwd=ejRTNkZKVGtHYnNua2JlTjR0RkVaUT09
+  is_cain: false
 - id: '2023-04-27'
   date: '2023-04-27'
   speaker: Lecturer Pontus Stenetorp
   title: Large Language Models and peering into the immediate future for natural language
     processing as a field
   affiliation: University College London (UCL)
+  time: 15:00 CET
   location: Isafjordsgatan 22, Kista
   photo: /assets/images/speakers/2023-04-27-pontus-stenetorp.jpg
   abstract: 'Natural Language Processing (NLP) as a field (as well as Artificial Intelligence
@@ -2792,13 +2867,15 @@
     in Tokyo, Japan. They received their PhD in Computer Science from the University
     of Tokyo in 2013 and MSc in Computer Science from the Royal Institute of Technology (KTH)
     in Stockholm, Sweden in 2010.'
-  stream_url: https://rise.zoom.us/j/208117140?pwd=RWt2bm8xbkc1SlFNaCtuQTFlU29GUT09
+  is_cain: false
 - id: '2023-04-20'
   date: '2023-04-20'
   speaker: Professor Rico Sennrich
   title: 'Knowledge Transfer Across Languages and Modalities: Insights from Speech
     Translation and Sign Language Translation'
   affiliation: University of Zurich
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-04-20-rico-sennrich.jpg
   abstract: Large multilingual models have revolutionized natural language processing
     by unlocking knowledge sharing across tasks and languages. For modalities other
@@ -2818,12 +2895,14 @@
     EACL 2023. His research focuses on machine learning for natural language processing,
     specifically high-quality machine translation, transfer learning, and multilingual
     and multimodal models.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=T0hXMWlKQUg0YVZZbk5ua0hadkpFQT09
+  is_cain: false
 - id: '2023-04-13'
   date: '2023-04-13'
   speaker: PhD Candidate Elijah Cole
   title: Learning from real-world data
   affiliation: Caltech
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-04-13-elijah-cole.jpg
   abstract: Humans are collecting vast amounts of data to tackle societal challenges
     like preserving biodiversity, improving healthcare outcomes, and accelerating
@@ -2851,12 +2930,14 @@
     conditions and challenge traditional machine learning paradigms. Elijah’s work
     is funded by an NSF Graduate Research Fellowship and the Resnick Sustainability
     Institute.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=K3Z5SzNmL3ZYZDlyRUZSK2hDa0hhdz09
+  is_cain: false
 - id: '2023-03-23'
   date: '2023-03-23'
   speaker: Post doc Gabrielle Flood
   title: Matching and Merging of Structure from Motion Maps with Statistical Deformations
   affiliation: Lund University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-03-23-gabrielle-flood.jpg
   abstract: 'With the fast development of autonomous vehicles and agents that move
     in the world without human supervision, the need for good localisation methods
@@ -2885,13 +2966,15 @@
     problems in computer vision in particular. Currently, her research is mainly focusing
     on positioning and robust estimation of 3D reconstructions from different sensor
     modalities - such as images and audio - and efficient merging of such reconstructions.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=dzF3c2NwMW5IQzhYV0hoaGZOTEtmQT09
+  is_cain: false
 - id: '2023-03-16'
   date: '2023-03-16'
   speaker: Associate Professor Stefanos Georganos
   title: 'Filling the gaps: AI and Earth Observation in support of urban sustainability
     in the Global South'
   affiliation: Karlstad University/KTH
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-03-16-stefanos-georganos.jpg
   abstract: The Global South includes some of the of the most rapid-growing urban
     regions in the world. This ongoing shift has dramatically affected their capacity
@@ -2919,12 +3002,14 @@
     Stefanos is the co-Chair of the European's Assosciation of Remote Sensing Laboratories
     Special Interest Group on Developing Countries. He has coordinated and managed
     large international consortia such as REACT (https://react.ulb.be/).
-  stream_url: ' https://rise.zoom.us/j/208117140?pwd=NEdkTy84VUtLOGlkelR4TFhta0cwZz09'
+  is_cain: false
 - id: '2023-03-09'
   date: '2023-03-09'
   speaker: Reader Shay Cohen
   title: Summarization with Latent Structure, Context Factors and Quantitative Precision
   affiliation: University of Edinburgh
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-03-09-shay-cohen.jpg
   abstract: Large language models (LLMs) have demonstrated remarkable results in NLP,
     achieving significant progress in many tasks, including document summarization.
@@ -2944,12 +3029,14 @@
     his Ph.D. from Carnegie Mellon University in 2011. His research interests span
     a range of topics in NLP and machine learning, with a focus on structured prediction
     (for example, parsing) and text generation.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=TTl5SDRISXhsaVE0RmFIRnI0YXJDZz09
+  is_cain: false
 - id: '2023-02-23'
   date: '2023-02-23'
   speaker: Professor Alexander Ilin
   title: Hierarchical Imitation Learning with Vector Quantized Models
   affiliation: Aalto University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-02-23-alexander-ilin.jpg
   abstract: The ability to plan actions on multiple levels of abstraction enables
     intelligent agents to solve complex tasks effectively. However, learning the models
@@ -2967,12 +3054,14 @@
     He obtained his PhD degree from Helsinki University of Technology under the supervision
     of Prof. Erkki Oja and Dr. Harri Valpola. His research interests focus on deep
     representation learning and model-based reinforcement learning.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=dkNGaGxUMEJKcUpGSEl4L0xQNEprZz09
+  is_cain: false
 - id: '2023-02-09'
   date: '2023-02-09'
   speaker: Senior Researchers Joakim Nivre, Erik Ylipää, and Olof Mogren
   title: ChatGPT and other large language models (LLMs)
   affiliation: RISE Research Institutes of Sweden
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-02-09-joakim-nivre,-erik-ylipaa,-and-olof-mogren.jpg
   abstract: 'Chat GPT has been the AI-talk-of-the-town in 2022. It has demonstrated
     an impressive fluency, and produced examples of dialog that far surpass the state-of-the-art
@@ -2991,13 +3080,15 @@
     Erik Ylipää is a researcher at RISE with extensive expertise in transformer-based
     models. Olof Mogren is a research leader within applied artificial intelligence
     and deep learning at RISE.
-  stream_url: https://rise.zoom.us/j/208117140?pwd=NjFPQzFRbDBFc3QrZ3lkS21OSFFwZz09
+  is_cain: false
 - id: '2023-02-02'
   date: '2023-02-02'
   speaker: PhD Candidate Vincent Szolnoky
   title: On the Interpretability of Regularisation for Neural Networks Through Model
     Gradient Similarity
   affiliation: Chalmers University of Technology
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-02-02-vincent-szolnoky.png
   abstract: Most complex machine learning and modelling techniques are prone to over-ﬁtting
     and may subsequently generalise poorly to future data. Artiﬁcial neural networks
@@ -3016,11 +3107,14 @@
     connection to regularisation for Neural Networks was accepted to NeurIPS 2022,
     one of the largest machine learning conferences, where it was well received and
     garnered much attention.
+  is_cain: false
 - id: '2023-01-26'
   date: '2023-01-26'
   speaker: Research Scientist Lena Voita
   title: 'A Journey on Interpretability Methods in NLP: Inside-Out and Back'
   affiliation: FAIR
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-01-26-lena-voita.jpg
   abstract: 'In this talk, I will illustrate several approaches, motivations and ideas
     behind analysis of NLP models. As an example, we will take the standard Transformer
@@ -3043,12 +3137,15 @@
     a Research Scientist at Yandex Research side by side with the Yandex Translate
     team. She enjoys writing blog posts and teaching; a public version of (a part
     of) her NLP course is available at NLP Course For You.
+  is_cain: false
 - id: '2023-01-19'
   date: '2023-01-19'
   speaker: Assistant professor Giulia Fanti
   title: Reducing the Communication Complexity of Federated Learning through Multistage
     Optimization
   affiliation: Carnegie Mellon University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-01-19-giulia-fanti.jpg
   abstract: Federated learning (FL) aims to minimize the communication cost of training
     a model over heterogeneous data distributed across many clients. A common approach
@@ -3073,11 +3170,14 @@
     awards, including best paper awards, a Sloan Fellowship, an Intel Rising Star
     Faculty Award, and a SIGMETRICS Rising Star Award. She obtained her Ph.D. in EECS
     from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering.
+  is_cain: false
 - id: '2023-01-12'
   date: '2023-01-12'
   speaker: Professor Mark D. Plumbley
   title: AI for Sound
   affiliation: University of Surrey
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-01-12-mark-d.-plumbley.jpg
   abstract: 'Imagine you are standing on a street corner in a city. Close your eyes:
     what do you hear? Perhaps some cars and busses driving on the road, footsteps
@@ -3103,11 +3203,14 @@
     for Sound" on automatic recognition of everyday sounds. He is a Member of the
     IEEE Signal Processing Society Technical Committee on Audio and Acoustic Signal
     Processing, and a Fellow of the IET and IEEE.
+  is_cain: false
 - id: '2022-12-08'
   date: '2022-12-08'
   speaker: William Lidberg
   title: Geographical intelligence
   affiliation: Swedish University of Agricultural Sciences
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-12-08-william-lidberg.jpg
   abstract: 'Most of the Nordic countries are covered in forest and there is a long
     history of large-scale forestry in the region. The role of forests in society
@@ -3129,17 +3232,20 @@
     about social and ethical challenges that come with the implementation of these
     maps. The Swedish system is built on trust in government agencies. What happens
     with that trust when management decisions are made based on AI-derived maps?'
-  bio: 'William is an assistant professor in the department of forest ecology and
-    sustainable management at the Swedish university of agricultural sciences. He
-    is leading an interdisciplinary research group that combines soil science, hydrology,
-    remote sensing, archaeology, and AI with social science to solve problems in forest
-    management. William collaborates with multiple Swedish agencies to quickly take
-    ideas from research to implementation on a national scale. '
+  bio: William is an assistant professor in the department of forest ecology and sustainable
+    management at the Swedish university of agricultural sciences. He is leading an
+    interdisciplinary research group that combines soil science, hydrology, remote
+    sensing, archaeology, and AI with social science to solve problems in forest management.
+    William collaborates with multiple Swedish agencies to quickly take ideas from
+    research to implementation on a national scale.
+  is_cain: false
 - id: '2022-12-01'
   date: '2022-12-01'
   speaker: Assistant professor Sara Beery
   title: 'Auto Arborist: Towards Mapping Urban Forests Across North America'
   affiliation: MIT
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-12-01-sara-beery.jpeg
   abstract: 'Generalization to novel domains is a fundamental challenge for computer
     vision. Near-perfect accuracy on benchmarks is common, but these models do not
@@ -3163,21 +3269,24 @@
     in the literature. We introduce baseline results on our dataset across modalities
     as well as metrics for the detailed analysis of generalization with respect to
     geographic distribution shifts, vital for such a system to be deployed at-scale.'
-  bio: 'Sara is an incoming assistant professor at MIT EECS'' Faculty of AI and Decision
+  bio: Sara is an incoming assistant professor at MIT EECS' Faculty of AI and Decision
     Making and CSAIL, and a Visiting Researcher at Google working on Auto Arborist.
-    She''s always loved the natural world, and has seen a growing need for technology-based
+    She's always loved the natural world, and has seen a growing need for technology-based
     approaches to conservation and sustainability challenges. Her research focuses
     on building computer vision methods that enable global-scale environmental and
     biodiversity monitoring across data modalities, tackling real-world challenges
     including strong spatiotemporal correlations that lead to domain shift, imperfect
     data quality, fine-grained categories, and long-tailed distributions. Sara received
     my PhD in Computing and Mathematical Sciences (CMS) at Caltech, advised by Pietro
-    Perona, where she recieved the Amori Doctoral Prize for my dissertation. '
+    Perona, where she recieved the Amori Doctoral Prize for my dissertation.
+  is_cain: false
 - id: '2022-11-24'
   date: '2022-11-24'
   speaker: Associate Professor Viktor Larsson
   title: Mapping and Localization for AR
   affiliation: LTH
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-11-24-viktor-larsson.jpg
   abstract: For augmented reality devices to persist content across sessions it is
     necessary to both build maps of the environment and to localize within them. The
@@ -3197,11 +3306,14 @@
     exploring how to best integrate deep learning with classical geometry-based pipelines.
     In particular, identifying and replacing hand-crafted heuristics or implicit assumptions
     with more data-driven alternatives.
+  is_cain: false
 - id: '2022-11-17'
   date: '2022-11-17'
   speaker: Machine Learning Engineer Muhammad Osama
   title: Robust Risk Minimization for Statistical Learning from Corrupted Data
   affiliation: Aptiv
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-11-17-muhammad-osama.jpg
   abstract: We consider a general statistical learning problem where an unknown fraction
     of the training data is corrupted. We develop a robust learning method that only
@@ -3222,11 +3334,14 @@
     contexts/sources and the context is unknown at test time etc. After graduation,
     I have started working at Aptiv in Germany where I am applying machine learning
     to different perception related problems for automobile safety.
+  is_cain: false
 - id: '2022-11-10'
   date: '2022-11-10'
   speaker: Visiting Faculty Researcher Frederik Kratzert
   title: Long Short-Term Memory networks (LSTMs) for rainfall-runoff modeling
   affiliation: Google
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-11-10-frederik-kratzert.jpg
   abstract: In this talk, I will talk about my research over the last few years on
     LSTMs for rainfall-runoff modelling. We will cover a short introduction about
@@ -3238,11 +3353,14 @@
     learning with a focus on the intersection of these two fields. After his PhD,
     Frederik joined Google as a visiting faculty researcher, where he is working in
     Google's Flood Forecasting team, building a global flood warning system.
+  is_cain: false
 - id: '2022-10-27'
   date: '2022-10-27'
   speaker: Associate Professor Ricardo Vinuesa
   title: Modeling and controlling turbulent flows through deep learning
   affiliation: KTH
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-10-27-ricardo-vinuesa.jpg
   abstract: 'The advent of new powerful deep neural networks (DNNs) has fostered their
     application in a wide range of research areas, including more recently in fluid
@@ -3266,11 +3384,14 @@
     flows, such as the boundary layers developing around wings and urban environments.
     Dr. Vinuesa has received, among others, an ERC Consolidator Grant, the Göran Gustafsson
     Award for Young Researchers and he is coordinating a number of EU-funded projects.
+  is_cain: false
 - id: '2022-10-20'
   date: '2022-10-20'
   speaker: Professor Hedvig Kjellström
   title: Compositional, structured, and interpretable models
   affiliation: KTH
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-10-20-hedvig-kjellstrom.jpg
   abstract: 'Despite their fantastic achievements in fields such as computer vision
     and natural language processing, state-of-the-art deep learning approaches differ
@@ -3294,9 +3415,7 @@
 
     In this talk I will describe a number of projects in my group where we explore
     disentanglement, temporality, multimodality, and cause-effect representations
-    to accomplish compositional, structured, and interpretable models of the world.,
-
-    '
+    to accomplish compositional, structured, and interpretable models of the world.,'
   bio: 'Hedvig Kjellström is a Professor in the Division of Robotics, Perception and
     Learning at KTH Royal Institute of Technology, Sweden. She is also a Principal
     AI Scientist at Silo AI, Sweden and an affiliated researcher in the Max Planck
@@ -3317,15 +3436,16 @@
     130 papers in the fields of computer vision, machine learning, robotics, information
     fusion, cognitive science, speech, and human-computer interaction. She is mostly
     active within computer vision, where she is an Associate Editor for IEEE TPAMI
-    and regularly serves as Area Chair for the major conferences.,
-
-    '
+    and regularly serves as Area Chair for the major conferences.,'
+  is_cain: false
 - id: '2022-10-13'
   date: '2022-10-13'
   speaker: Associate Professor Tomasz Trzcinski
   title: Zero-waste machine learning
   affiliation: Warsaw University of Technology, Tooploox, IDEAS NCBR, Jagiellonian
     University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-10-13-tomasz-trzcinski.png
   abstract: 'Today, both science and industry rely heavily on machine learning models,
     predominantly artificial neural networks, that become increasingly complex and
@@ -3354,12 +3474,15 @@
     of National Science Centre and Foundation for Polish Science. He is a Chief Scientist
     at Tooploox and a co-founder of Comixify, a technology startup focused on using
     machine learning algorithms for video editing.
+  is_cain: false
 - id: '2022-09-29'
   date: '2022-09-29'
   speaker: Professor Jörg Tiedemann
   title: Translations as semantic mirrors - Representation learning with multilingual
     data
   affiliation: Helsinki University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-29-jorg-tiedemann.jpg
   abstract: Natural language processing has never been more popular than now and the
     success of neural NLP paved the way for ever-increasing expectations in general
@@ -3384,11 +3507,14 @@
     are connected with massively multilingual data sets and data-driven natural language
     processing and he currently runs an ERC-funded project on representation learning
     and natural language understanding.
+  is_cain: false
 - id: '2022-09-22'
   date: '2022-09-22'
   speaker: Professor Devis Tuia
   title: Machine learning supporting ecology supporting machine learning
   affiliation: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-22-devis-tuia.jpg
   abstract: We live an age full of data. In all areas of society, digital data is
     now abundant, but also unstructured and pretty much unexploited. Animal ecology
@@ -3408,11 +3534,14 @@
     2020, he is back to EPFL, where he leads the Environmental Computational  Science
     and Earth Observation laboratory (ECEO) in Sion. There, he studies the Earth from
     above with machine learning and computer vision.
+  is_cain: false
 - id: '2022-09-15'
   date: '2022-09-15'
   speaker: PhD candidate Martin Hellkvist
   title: 'Fake it until you make it: Fake features can improve estimation performance'
   affiliation: Uppsala University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-15-martin-hellkvist.jpg
   abstract: We consider the estimation problem under model misspecification where
     there is a model mismatch between the underlying system, which generates the data, and
@@ -3437,11 +3566,14 @@
     interests are signal processing and machine learning with overparameterized models,
     and my latest publications include topics such as distributed learning and double
     descent.
+  is_cain: false
 - id: '2022-09-08'
   date: '2022-09-08'
   speaker: Senior research scientist Neil Zeghidour
   title: 'SoundStream: an end-to-end neural audio codec'
   affiliation: Google Brain
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-08-neil-zeghidour.png
   abstract: Audio codecs (mp3, Opus), are compression algorithms used whenever one
     needs to transmit audio, whether when streaming a song or during a conference
@@ -3467,12 +3599,15 @@
     jointly with Facebook AI Research. His main research interest is to integrate
     signal processing and deep learning into fully learnable architectures for audio
     understanding and generation.
+  is_cain: false
 - id: '2022-09-01'
   date: '2022-09-01'
   speaker: PhD candidate Sofia Broomé
   title: 'Horses, pain and temporal information: Learning video features in low-data
     and fine-grained action recognition'
   affiliation: Royal Institute of Technology (KTH)
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-01-sofia-broome.jpg
   abstract: "Recognition of pain in animals is important because pain compromises\
     \ animal welfare and can be a manifestation of disease. This is a difficult task\
@@ -3509,12 +3644,15 @@
     \ video models affect their cross-domain generalization ability is explored through\
     \ empirical study. We also propose new datasets for light-weight temporal modeling\
     \ and to investigate texture bias within action recognition."
+  is_cain: false
 - id: '2022-06-02'
   date: '2022-06-02'
   speaker: Simon Pfreundschuh
   title: Improving satellite measurements of clouds and precipitation using machine
     learning
   affiliation: Chalmers University of Technology
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-06-02-simon-pfreundschuh.jpg
   abstract: 'Observing and measuring clouds and rain is essential for climate science,
     meteorology, and an increasing range of societal and economic activities. This
@@ -3564,11 +3702,14 @@
     mission. He completed his graduate studies in May 2022 and will continue his work
     as a post-doctoral fellow at Chalmers University of Technology and associate scientist
     at the Swedish Meteorological and Hydrological Institute (SMHI).
+  is_cain: false
 - id: '2022-05-19'
   date: '2022-05-19'
   speaker: Marcus Liwicki, Frederik Sandin, and Karl Ekström
   title: Technical language supervision
   affiliation: Luleå University of Technology
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: In this presentation we will first give an overview of the recent achievements
     of the machine learning group at LTU and then dive deep into the young field of
     Technical Language (TL) Understanding and Supervision. Recent advances of NLP
@@ -3595,11 +3736,14 @@
     Karl Ekström is a PhD candidate at Luleå University of Technology. He is working
     in technical language processing and applies novel fundamental research results
     to real applications in the processing industry.'
+  is_cain: false
 - id: '2022-05-12'
   date: '2022-05-12'
   speaker: Fredrik Lindsten
   title: On uncertainty in machine learning
   affiliation: Linköping University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-05-12-fredrik-lindsten.jpg
   abstract: The rapid development and deployment of machine learning systems is having
     a profound impact on our society. In recent years these systems have excelled
@@ -3622,11 +3766,14 @@
     Berkeley and at the department of statistics at the University of Oxford. His
     research interests are in probabilistic models, uncertainty quantification for
     machine learning, computational statistics and signal processing.
+  is_cain: false
 - id: '2022-05-05'
   date: '2022-05-05'
   speaker: Fredrik Carlsson
   title: Fine-grained controllable text generation using non-residual prompting,
   affiliation: RISE Research Institutes of Sweden
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-05-05-fredrik-carlsson.png
   abstract: The introduction of immensely large Causal Language Models (CLMs) has
     rejuvenated the interest in open-ended text generation. However, controlling the
@@ -3644,11 +3791,14 @@
     and vision and combinations of the two. He has published papers in venues such
     as ICLR and ACL on contrastive learning and representation learning for natural
     language processing.
+  is_cain: false
 - id: '2022-04-28'
   date: '2022-04-28'
   speaker: Thomas Schön
   title: Formulating flexible probabilistic models
   affiliation: Uppsala University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-04-28-thomas-schon.png
   abstract: One of the key lessons to take away from contemporary machine learning
     is that flexible models offer the best predictive performance. This has implications
@@ -3669,12 +3819,15 @@
     of Sciences (KVA). He was awarded the best PhD thesis award by The European Association
     for Signal Processing in 2013. He received the best teacher award at the Institute
     of Technology, Linköping University in 2009.
+  is_cain: false
 - id: '2022-04-21'
   date: '2022-04-21'
   speaker: Jacob Zwart
   title: Stream temperature forecasts using process-guided deep learning and data
     assimilation in support of management decisions
   affiliation: U.S. Geological Survey
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-04-21-jacob-zwart.jpg
   abstract: Multiple and competing water demands can require complex water allocation
     decisions that must be made with imperfect information about the future. Near-term
@@ -3694,12 +3847,15 @@
     deep learning) to make accurate predictions of environmental variables, and developed
     methods for assimilating real-time observations into these models to improve near-term
     forecasts of water quality.
+  is_cain: false
 - id: '2022-04-07'
   date: '2022-04-07'
   speaker: Kyunghyun Cho
   title: Data augmentation for natural language processing /// Characterizing and
     addressing the issue of oversmoothing in neural autoregressive sequence modeling
   affiliation: NYU
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-04-07-kyunghyun-cho.jpeg
   abstract: Neural autoregressive sequence models smear the probability among many
     possible sequences including degenerate ones, such as empty or repetitive sequences.
@@ -3730,11 +3886,14 @@
     respectively, under the supervision of Prof. Juha Karhunen, Dr. Tapani Raiko and
     Dr. Alexander Ilin. He tries his best to find a balance among machine learning,
     natural language processing, and life, but almost always fails to do so.
+  is_cain: false
 - id: '2022-03-31'
   date: '2022-03-31'
   speaker: Martin Trimmel
   title: Linear Regions of Deep Neural Networks
   affiliation: Lund University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-03-31-martin-trimmel.png
   abstract: 'Many of the most widely used neural network architectures make use of
     rectified linear activations (ReLU, i.e. f(x) = max(x, 0)) and are therefore piecewise
@@ -3766,12 +3925,15 @@
     in using mathematics to obtain a better theoretical understanding of deep learning.
     In particular, his previous work has focused on the effect the activations have
     on the network function and its performance.
+  is_cain: false
 - id: '2022-03-24'
   date: '2022-03-24'
   speaker: Lovisa Hagström
   title: 'The issue with understanding language from text alone: an overview and potential
     solutions'
   affiliation: Chalmers
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-03-24-lovisa-hagstrom.jpg
   abstract: 'We have recently seen the development of complex language models capable
     of everything between writing news articles and generating stories about unicorns.
@@ -3799,12 +3961,15 @@
     a master’s degree in Engineering Physics from Chalmers and spent one year studying
     abroad at the National University of Singapore. Her personal interests include
     cross-country skiing and running.
+  is_cain: false
 - id: '2022-03-17'
   date: '2022-03-17'
   speaker: Magnus Röding
   title: Microstructures and mass transport in porous materials - combining physics,
     statistics, and machine learning
   affiliation: RISE Research Institutes of Sweden
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-03-17-magnus-roding.jpg
   abstract: Understanding the microstructure of a porous material and how it relates
     to its mass transport properties (for example diffusion of particles, or fluid
@@ -3829,11 +3994,14 @@
     University of Technology. His research interests concern modelling, statistics,
     and machine learning in connection to materials science and data analysis in imaging,
     microscopy, and other experimental techniques.
+  is_cain: false
 - id: '2022-03-10'
   date: '2022-03-10'
   speaker: Megan Stanley
   title: Molecular Property Prediction Using Few-Shot Learning Techniques
   affiliation: Microsoft Research Cambridge
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-03-10-megan-stanley.jpg
   abstract: A widely applied technique in early drug discovery to identify novel active
     molecules against a protein target is modelling quantitative structure-activity
@@ -3858,11 +4026,14 @@
     working on applications of machine learning in the sciences and with particular
     interest in few-shot learning and generalization. She graduated from her PhD in
     Physics at the University of Cambridge in 2017.
+  is_cain: false
 - id: '2022-02-24'
   date: '2022-02-24'
   speaker: Dan Stowell
   title: Deep models of animal listening perceptual tasks
   affiliation: Tilburg University
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-02-24-dan-stowell.jpg
   abstract: 'Natural soundscapes contain valuable information, readily available,
     about biodiversity and animal behaviour. Indeed a revolution in acoustic monitoring
@@ -3895,11 +4066,14 @@
     \ on addressing climate change through solar panel mapping.,\n,\nI use various\
     \ machine learning methods, including Gaussian processes, point process models,\
     \ feature learning... sure, yes, and deep learning too, lots of deep learning."
+  is_cain: false
 - id: '2022-02-10'
   date: '2022-02-10'
   speaker: Jerk Rönnols
   title: Machine learning for experimental chemical and physical analysis
   affiliation: RISE Research Institutes of Sweden
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: 'This presentation will focus on the application of machine learning methods
     in the interpretation of data gathered in experiments aimed at describing the
     shape, structure or molecular composition of materials, via small angle x-ray
@@ -3937,12 +4111,15 @@
     employed by RISE since 2014 and have primarily been working with development of
     methods for analysis of biobased materials with NMR spectroscopy, and other techniques.
     He is currently working on development of sustainable multifunctional materials.
+  is_cain: false
 - id: '2022-02-03'
   date: '2022-02-03'
   speaker: Josephine Sullivan
   title: 'Zero-shot learning: Harnessing text descriptions to learn unseen visual
     classes'
   affiliation: KTH
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: This presentation will have two parts describing recent research I have
     been involved with. Initially, I will focus on zero-shot learning - learning how
     to recognise novel visual classes from only text descriptions. This work introduces
@@ -3960,17 +4137,23 @@
     tracking, human/object pose recognition and multi-target tracking. Josephine obtained
     a D.Phil from Oxford University, Dept. Of Engineering Sciences in 2001 under the
     supervision of Prof. Andrew Blake.
+  is_cain: false
 - id: '2022-01-27'
   date: '2022-01-27'
   speaker: Aleksis Pirinen
   title: AI and climate change
   affiliation: RISE Research Institutes of Sweden
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-01-27-aleksis-pirinen.jpg
+  is_cain: false
 - id: '2022-01-20'
   date: '2022-01-20'
   speaker: Jon Nordby
   title: Monitoring noise, machinery and processes using sound and machine learning
   affiliation: Soundsensing
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: 'Many physical events and processes create sound, often in the hearable
     spectrum. This makes sound an interesting source of information about such processes.
     By combining sound sensors with machine learning, these can be tracked and analyzed.
@@ -3987,11 +4170,14 @@
     has worked as a software engineer in electronics and web projects for 10 years.
     Since 2019 he is the Head of Machine Learning and Data Science at Soundsensing,
     a provider of IoT sensors for sound with built Machine Learning capabilities.
+  is_cain: false
 - id: '2022-01-13'
   date: '2022-01-13'
   speaker: Andrew Jesson
   title: Head in the clouds? Why decision making is hard.
   affiliation: OATML, Oxford Applied and Theoretical Machine Learning Group
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-01-13-andrew-jesson.jpg
   abstract: 'How will a patient''s health be affected by taking a given medication?
     How will a user''s question be answered by a google search result? How will cloud
@@ -4015,10 +4201,13 @@
     of Tal Arbel. His research focuses on personalized decision making under uncertainty
     in causal-effect estimates. Specifically, he is interested in quantifying, integrating,
     and reducing uncertainty arising from the relaxation of causal assumptions.
+  is_cain: false
 - id: '2021-12-16'
   date: '2021-12-16'
   speaker: Stephane D'ascoli
   title: 'Double descent : insights from the random feature model'
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: 'In this talk I will present various insights on the double descent curve
     obtained by considering a solvable model for deep learning: the random feature
     model. First, I will present a fine-grained bias-variance decomposition and show
@@ -4035,28 +4224,34 @@
     try to understand when and why they overfit. On the other hand, I investigate
     how different types of inductive biases affect learning, from fully-connected
     networks to convolutional networks to transformers.
+  is_cain: false
 - id: '2021-12-09'
   date: '2021-12-09'
   speaker: Arman Rahbar
   title: Online Learning of Decision Trees
-  abstract: 'In this talk, I am going to talk about the problem of learning a decision
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  abstract: In this talk, I am going to talk about the problem of learning a decision
     tree online from streaming data. We will focus on two different methods to tackle
     this problem. The first one is called VFDT (Very Fast Decision Tree learner) which
     employs Heoffding bound to guarantee that the resulting tree is asymptotically
     nearly identical to that of a batch decision tree learner. One important limitation
     of VFDT is that it assumes all feature values of data points are always available.
     To address this limitation, I will present a new formulation of the problem which
-    enables us to use posterior sampling to learn efficiently from data. '
-  bio: 'Arman Rahbar is a WASP Ph.D. student at Chalmers University of Technology
-    and is working under the supervision of Prof. Morteza Chehreghani. He received
-    his bachelor''s and master''s degrees in Computer Engineering from Sharif University
-    of Technology and Tehran Polytechnic, respectively. Arman''s research is mainly
+    enables us to use posterior sampling to learn efficiently from data.
+  bio: Arman Rahbar is a WASP Ph.D. student at Chalmers University of Technology and
+    is working under the supervision of Prof. Morteza Chehreghani. He received his
+    bachelor's and master's degrees in Computer Engineering from Sharif University
+    of Technology and Tehran Polytechnic, respectively. Arman's research is mainly
     focused on representation learning problems that need to deal with the lack of
-    sufficient available information. '
+    sufficient available information.
+  is_cain: false
 - id: '2021-12-02'
   date: '2021-12-02'
   speaker: Ebba Ekblom
   title: Federated learning
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: 'The training of Machine Learning models often requires vast amounts of
     data, which traditionally has been stored at a central server to train a single
     model. Today, data is generally abundant, but due to privacy concerns it can be
@@ -4079,11 +4274,14 @@
     Learning for Generative Adversarial Networks since 2021. She has a MSc in Engineering
     Mathematics from Chalmers University of Technology and her master's thesis focused
     on generative modelling of microwave data for stroke detection.
+  is_cain: false
 - id: '2021-11-25'
   date: '2021-11-25'
   speaker: Maria Priisalu
   title: Semantically Reasoning Pedestrian Models in Generative Autonomous Vehicle
     Testing.
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2021-11-25-maria-priisalu.jpg
   abstract: There exist several datasets for developing self-driving car methodologies.
     Manually collected datasets impose inherent limitations on the variability of
@@ -4112,11 +4310,14 @@
     models in applications to autonomous vehicles. Prior to her PhD studies Maria
     obtained her MSc. degree at Lund University in Computer Science. During her MSc
     studies she attended an internship at the CERN, a fellowship at CalTech, and exchange
-    studies at Georgia Institute of Technology and Zhejiang University. 
+    studies at Georgia Institute of Technology and Zhejiang University.
+  is_cain: false
 - id: '2021-11-18'
   date: '2021-11-18'
   speaker: Martin Willbo
   title: Few-shot learning
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: Using machine learning methods for analysing recordings from different
     soundscapes are of great interest and a research area which can potentially lead
     to many societal benefits. Such tools could be of use in many different application
@@ -4135,11 +4336,14 @@
   bio: Martin Willbo recently graduated from Chalmers University of Technology with
     a master's in data science and Artificial Intelligence. Martin is employed as
     a junior researcher at RISE working on few-shot learning for sound event detection.
+  is_cain: false
 - id: '2021-11-11'
   date: '2021-11-11'
   speaker: Diarmuid Corcoran
   title: Reinforcement Learning for Automated Energy Efficient Mobile Network Performance
     Tuning.
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: Modern mobile networks are increasingly complex from a resource management
     perspective, with diverse combina- tions of software, infrastructure elements
     and services that need to be configured and tuned for correct and efficient operation.
@@ -4164,11 +4368,14 @@
     his current research interests include methods, architectures and  algorithms
     for enabling self-learning resource management solutions with a focus on the implementation
     aspects of advanced automation.
+  is_cain: false
 - id: '2021-11-04'
   date: '2021-11-04'
   speaker: Professor Tuomas Virtanen
   title: An overview of various acoustic scene analysis topics
   affiliation: Tampere University of Technology
+  time: 15:00 CET
+  location: Sweden / Live Stream
   abstract: Our everyday acoustic environments contain lots of sounds that carry information
     about events happening the environment. Automatic analysis of acoustic scenes
     has several applications, and has therefore attracted lots of research recently.
@@ -4188,110 +4395,210 @@
     more than 200 scientific publications on these topics. He was the recipient of
     the IEEE Signal Processing Society 2012 Best Paper Award, and ERC 2014 Starting
     Grant “Computational Analysis of Everyday Soundscapes.”
+  is_cain: false
 - id: '2021-10-28'
   date: '2021-10-28'
   speaker: Maria Bånkestad
   title: Variational inference.
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-10-21'
   date: '2021-10-21'
   speaker: Nikunj Saunshi
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-10-14'
   date: '2021-10-14'
   speaker: Alan Said
   title: Recommender systems
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-10-07'
   date: '2021-10-07'
   speaker: Arash Vahidi
   title: security
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-09-30'
   date: '2021-09-30'
   speaker: Anders Holst
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-09-23'
   date: '2021-09-23'
   speaker: Nishat Mowla
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-09-16'
   date: '2021-09-16'
   speaker: Flash Talks
   title: DL group
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-09-09'
   date: '2021-09-09'
   speaker: Björn Gambäck
   title: Hate speech social media.
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-06-10'
   date: '2021-06-10'
   speaker: Debabrota Basu
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-05-27'
   date: '2021-05-27'
   speaker: Aliresa Salehi
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-05-20'
   date: '2021-05-20'
   speaker: Divya Grover, PhD candidate, Chalmers
   title: Bayesian RL (or similar)
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-05-06'
   date: '2021-05-06'
   speaker: Rajkumar Saini, Luleå Postdoc
   title: EEG (Electroencephalography) in varieties of applications
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-04-29'
   date: '2021-04-29'
   speaker: Ariel Ekgren
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-04-22'
   date: '2021-04-22'
   speaker: Aleksis Pirinen
   title: Intro to Policy-Based RL and Applications in Computer Vision
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-04-15'
   date: '2021-04-15'
   speaker: Rami Mochaourab
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-03-25'
   date: '2021-03-25'
   speaker: 'Flash Talks: Evi (x), Anders Arpteg, Björn Gambäck, Wilhelm Söderkvist
     Wermelin (x), Rickard Brännvall'
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-03-18'
   date: '2021-03-18'
   speaker: Daniel F. Perez-Ramirez
   title: GNNs for IoT
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-03-11'
   date: '2021-03-11'
   speaker: Maria Bånkestad
   title: Generativa modeller i kombination med molekyler och kvantmekanik/kemi
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-02-25'
   date: '2021-02-25'
   speaker: Sepideh Pashami, RISE and Halmstad
   title: causal inference
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-02-11'
   date: '2021-02-11'
   speaker: Jesper Derehag, Ericsson
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-02-04'
   date: '2021-02-04'
   speaker: Olof Görnerup
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2021-01-28'
   date: '2021-01-28'
   speaker: Marinos Koutsomichalis, Technological University of Cyprus
   title: Computational creativity / soundscapes
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2020-12-10'
   date: '2020-12-10'
   speaker: Zekarias Tilahun Kefato, KTH
   title: Dynamic Embeddings for Interaction Prediction
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2020-12-03'
   date: '2020-12-03'
   speaker: 'Flash Talks: Edvin Listo Zec, Maria Bånkestad?, Sepideh Pashami?, Olof
     G?'
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2020-11-26'
   date: '2020-11-26'
   speaker: Rickard Brännvall
   title: Machine learning with homomorphic encryption
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2020-11-19'
   date: '2020-11-19'
   speaker: Edvin Listo Zec
   title: Federated learning
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2020-11-12'
   date: '2020-11-12'
   speaker: Erik Ylipää
   title: Unsquared Transformers
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2020-11-05'
   date: '2020-11-05'
   speaker: Olof Mogren
   title: Uncertainty in deep learning
+  time: 15:00 CET
+  location: Sweden / Live Stream
+  is_cain: false
 - id: '2020-10-22'
   date: '2020-10-22'
   speaker: Fredrik Carlsson
+  title: ''
+  time: 15:00 CET
+  location: Sweden / Live Stream
   photo: /assets/images/speakers/2020-10-22-fredrik-carlsson.png
+  is_cain: false
