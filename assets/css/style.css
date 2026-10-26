@@ -30,6 +30,22 @@ body {
   flex-direction: column;
 }
 
+
+/* Header logo starts hidden on pages with a hero banner */
+body.has-hero .site-header .brand-link {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-4px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+/* Fades in smoothly once scrolled past the hero */
+body.has-hero .site-header.scrolled .brand-link {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
 .container {
   max-width: 1040px;
   margin: 0 auto;

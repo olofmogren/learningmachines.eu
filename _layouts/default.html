@@ -9,6 +9,35 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const header = document.querySelector('.site-header');
+    const hero = document.querySelector('.hero');
+    const heroLogo = document.querySelector('.hero-logo-img');
+
+    // Only apply scroll-toggle behavior if a hero section exists on this page
+    if (hero && heroLogo) {
+      document.body.classList.add('has-hero');
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          // If the hero logo is visible in viewport, hide top-left header logo
+          if (entry.isIntersecting) {
+            header.classList.remove('scrolled');
+          } else {
+            // Hero logo has scrolled out of view: show top-left header logo
+            header.classList.add('scrolled');
+          }
+        });
+      }, {
+        root: null,
+        threshold: 0.1
+      });
+
+      observer.observe(heroLogo);
+    }
+  });
+  </script>
 </head>
 <body>
   {% include header.html %}
