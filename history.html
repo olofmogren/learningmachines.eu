@@ -16,7 +16,7 @@ title: Seminar Archive & Recordings
     {% assign sorted_past_seminars = site.data.seminars | sort: "date" | reverse %}
 
     {% for seminar in sorted_past_seminars %}
-      {% if seminar.date < today or seminar.youtube_id and seminar.youtube_id != "" %}
+      {% if seminar.date < today %}
         <article class="seminar-card">
           <div class="seminar-header">
             <span>📅 {{ seminar.date }}</span>
