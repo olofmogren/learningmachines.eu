@@ -271,6 +271,21 @@ body {
   border: 2px solid var(--accent-cyan);
   flex-shrink: 0;
 }
+/* Fallback avatar styling */
+.fallback-avatar {
+  background: rgba(18, 24, 38, 0.9);
+  padding: 14px;
+  object-fit: contain !important;
+}
+
+.cain-fallback {
+  border-color: #8ad1cc !important;
+}
+
+.lm-fallback {
+  border-color: rgba(138, 209, 204, 0.4) !important;
+}
+
 .seminar-info {
   flex: 1;
 }
