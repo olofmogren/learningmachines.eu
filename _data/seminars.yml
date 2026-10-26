@@ -6,6 +6,7 @@
   affiliation: PhD candidate, Technical University of Munich (TUM)
   time: 15:00 CET
   location: Sweden / Live Stream
+  registration_url: registration-link
   is_cain: false
 - id: '2027-01-28'
   date: '2027-01-28'
@@ -15,6 +16,7 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2027-01-28-nicola-messina.jpg
+  registration_url: registration-link
   is_cain: false
 - id: '2027-01-14'
   date: '2027-01-14'
@@ -25,6 +27,7 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2027-01-14-maria-perez-ortiz.jpg
+  registration_url: registration-link
   is_cain: false
 - id: '2026-12-17'
   date: '2026-12-17'
@@ -35,6 +38,7 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-12-17-lester-jame-miranda.jpg
+  registration_url: registration-link
   is_cain: false
 - id: '2026-12-03'
   date: '2026-12-03'
@@ -45,6 +49,7 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-12-03-miguel-costa.jpg
+  registration_url: registration-link
   is_cain: false
 - id: '2026-11-05'
   date: '2026-11-05'
@@ -91,6 +96,7 @@
     assessment, population exposure estimation, and environmental health applications.
     She also develops automated and reproducible computational workflows for large-scale
     environmental data processing and analysis.
+  registration_url: registration-link
   is_cain: false
 - id: '2026-10-22'
   date: '2026-10-22'
@@ -143,6 +149,7 @@
     imaging and bio-inspired learning, including biological neural cultures as computational
     reservoirs. His work has received two paper awards; he was named a Key Innovator
     by the European Commission, and his MSCA proposal received a Seal of Excellence.
+  registration_url: registration-link
   is_cain: false
 - id: '2026-10-08'
   date: '2026-10-08'
@@ -190,6 +197,7 @@
     Rangel received the 2025 AGU Remote Sensing Student Award for RiverScope and passed
     her PhD Portfolio with Distinction. Her work has appeared at CVPR, ICCV, WACV,
     AAAI, and IEEE JSTARS, including a CVPR 2024 Highlight paper.
+  registration_url: registration-link
   is_cain: false
 - id: '2026-09-24'
   date: '2026-09-24'
@@ -222,6 +230,7 @@
     is a member of the European Laboratory for Learning and Intelligent Systems (ELLIS)
     and the Amsterdam ELLIS Unit. Her work has been published in venues such as Nature,
     ICML, AAAI, AISTATS, CVPR and FAccT.
+  registration_url: registration-link
   is_cain: false
 - id: '2026-09-17'
   date: '2026-09-17'
@@ -282,6 +291,7 @@
     \ and eddy-covariance observations. \n\nHis work now focuses on (i) applications\
     \ for ecosystem physiology predictive modelling and (ii) method development in\
     \ environmental imaging spectroscopy."
+  registration_url: registration-link
   is_cain: false
 - id: '2026-08-27'
   date: '2026-08-27'
@@ -311,6 +321,7 @@
     methods from network science and statistical physics in his current research.
     His work has been published in Science Advances and has received international
     media coverage, including features in The Guardian and El País.
+  registration_url: registration-link
   youtube_id: Ox1zIWHTnn4
   is_cain: false
 - id: '2026-06-25'
@@ -353,6 +364,7 @@
     IPCC Special Report on Climate Extremes (SREX) and was awarded the prestigious
     Gottfried Wilhelm Leibniz Prize in 2020. His groundbreaking collaborative research
     has also been supported by a major European Research Council (ERC) Synergy Grant.
+  registration_url: registration-link
   youtube_id: lPN4aVyfbD8
   is_cain: false
 - id: '2026-06-11'
@@ -387,6 +399,7 @@
     Beyond his research, he serves as a convener for the United Nations’ ITU AI for
     Good seminar series and holds visiting positions at the Institut Polytechnique
     de Paris and the Max Planck Institute. https://isp.uv.es
+  registration_url: registration-link
   youtube_id: saoF4x7ZpsQ
   is_cain: false
 - id: '2026-05-28'
@@ -421,6 +434,7 @@
     her thesis in the Oxford Applied and Theoretical Machine Learning Group on "Applied
     Machine Learning for Earth Systems Science", collaborating with the United Nations,
     European Space Agency and NASA during her PhD.
+  registration_url: registration-link
   youtube_id: v8bGOmmITJw
   is_cain: false
 - id: '2026-05-07'
@@ -463,6 +477,7 @@
     is particularly interested in transfer learning and building models that generalize
     across different geographic regions. Her work aims to support climate resilience
     through scalable AI-driven geospatial solutions.
+  registration_url: https://form.apsis.one/dfOQvCwxGHJ46Lp
   youtube_id: f4f8p-NWDHg
   is_cain: false
 - id: '2026-03-26'
@@ -511,6 +526,7 @@
     revolutionize the monitoring of animal populations. He is currently based at the
     University of Copenhagen working on detecting and classifying vocalizations from
     narwhales in Greenland.'
+  registration_url: https://form.apsis.one/oAF2JMgbkl1slwd
   youtube_id: 7I1S13S33Pc
   is_cain: false
 - id: '2026-03-19'
@@ -556,6 +572,7 @@
     informal refugee settlement detection, and disaster- fragility, conflict, and
     violence assessment, in partnership with humanitarian organizations and non-profits
     in Southeast Asia, Latin America, the Middle East, and the Caribbean.
+  registration_url: https://form.apsis.one/A1g737VYnR
   youtube_id: vJDXlvI0Tgo
   is_cain: false
 - id: '2026-02-19'
@@ -591,6 +608,7 @@
     focus on spiking neural networks and deep state-space models.  She holds a Master’s
     degree in Mathematics with Honours from the University of Manchester, where she
     completed a four-year master degree with integrated bachelor degree.
+  registration_url: extra2
   youtube_id: 7D6-hBS3cug
   is_cain: false
 - id: '2026-02-05'
@@ -625,6 +643,7 @@
     X-ray techniques for 3D and 4D imaging across scales from micro to nano and timescales
     from seconds to femtoseconds. He frequently uses synchrotron and XFEL facilities
     for his research.
+  registration_url: extra2
   is_cain: false
 - id: '2026-01-22'
   date: '2026-01-22'
@@ -673,6 +692,7 @@
     co-founder and lead AI scientist at Clinsight AB, where she works to translate
     research innovations into clinical tools that can meaningfully impact patient
     care.
+  registration_url: extra2
   youtube_id: kX8bNq0OKkk
   is_cain: false
 - id: '2025-12-11'
@@ -704,6 +724,7 @@
     and Technology at the University of Cambridge. His research interests lie at the
     intersection of machine learning and earth sciences, with a particular focus on
     developing self-supervised learning algorithms in remote sensing.
+  registration_url: extra2
   youtube_id: AQhzSBxvhVM
   is_cain: false
 - id: '2025-11-27'
@@ -739,6 +760,7 @@
     He is the founder of several companies, Neuromathic, Spiideo, Cognimatics and
     Decuma, where Decuma won the EU's "IST grand prize" in 2005. He has been main
     or co-supervisor for 35 PhD students.
+  registration_url: extra2
   youtube_id: GzTXDvapBZE
   is_cain: false
 - id: '2025-11-20'
@@ -786,6 +808,7 @@
     on physics-informed and robust machine learning solutions. The presented work
     is a collaboration between SINTEF and the CRUNCH group at the Division of Applied
     Mathematics at Brown University, USA.
+  registration_url: extra2
   youtube_id: mFTFRA5sd3M
   is_cain: false
 - id: '2025-11-13'
@@ -832,6 +855,7 @@
     initiatives. Recognized as an AI Newcomer by the German Informatics Society in
     2023, her interdisciplinary research bridges computer vision, remote sensing,
     and cryospheric science.
+  registration_url: extra2
   is_cain: false
 - id: '2025-11-06'
   date: '2025-11-06'
@@ -864,6 +888,7 @@
     in fluid or structural mechanics. He holds an M.Sc. in Computational Science &
     Engineering from TUM. Besides research, he works on free educational material
     covering Machine Learning & Simulation on his YouTube channel.
+  registration_url: extra2
   is_cain: false
 - id: '2025-10-16'
   date: '2025-10-16'
@@ -891,6 +916,7 @@
     a particular interest in predictions with missing values at test time, time series,
     and causality. Lena’s aims to develop interpretable and accurate models to support
     clinical decision-making.
+  registration_url: extra2
   youtube_id: s5rn4P-jpTM
   is_cain: false
 - id: '2025-10-09'
@@ -924,6 +950,7 @@
     in 2024, where he studied deep learning for large-scale urban mapping and change
     detection. He holds a Master’s degree (2019) in Remote Sensing and Computer Science
     and a Bachelor’s degree (2017) in Geography from the University of Zurich.
+  registration_url: extra2
   youtube_id: rjPOzPH_CU8
   is_cain: false
 - id: '2025-09-25'
@@ -961,6 +988,7 @@
     hyperparameter optimisation and air pollution monitoring. Her interests combine
     machine learning methodology with environmental applications. Currently, she is
     working on downscaling weather data and forecasting icing on wind turbines.
+  registration_url: extra2
   youtube_id: 8hS638bP150
   is_cain: false
 - id: '2025-09-11'
@@ -1004,6 +1032,7 @@
     models tailored to remote sensing. His current research combines flow-based methods
     with domain adaptation, aiming to enhance the robustness of EO models to shifting
     data distributions.
+  registration_url: extra2
   youtube_id: OAJx99nfplw
   is_cain: false
 - id: '2025-08-28'
@@ -1049,6 +1078,7 @@
     and data-driven models can be used to estimate socioeconomic conditions in data-scarce
     regions, and how these maps can support causal analysis in policy and intervention
     design.
+  registration_url: extra2
   youtube_id: bgCQwK6a6HQ
   is_cain: false
 - id: '2025-06-19'
@@ -1079,6 +1109,7 @@
     supporting rangers in protected areas worldwide, and co-organizes the EAAMO research
     initiative, committed to advancing Equity and Access in Algorithms, Mechanisms,
     and Optimization.
+  registration_url: extra2
   youtube_id: a2B675quBHo
   is_cain: false
 - id: '2025-05-22'
@@ -1112,6 +1143,7 @@
     monitoring. A key focus of his research is on streamlining the often labor-intensive
     process of labeling bioacoustic data, and on creating robust models that perform
     effectively even with limited labeled data. More information on his website: johnmartinsson.org.'
+  registration_url: extra2
   youtube_id: OKZDCabQ16w
   is_cain: false
 - id: '2025-05-15'
@@ -1143,6 +1175,7 @@
     Peter is coordinator of the WeatherGenerator Horizon Europe project that aims
     to build a machine-learned foundation model for weather and climate applications
     and has been the coordinator of the MAELSTROM EuroHPC-Joint Undertaking project.
+  registration_url: extra2
   youtube_id: vWaiFVLF_fw
   is_cain: false
 - id: '2025-05-08'
@@ -1180,6 +1213,7 @@
     current work focuses on high-resolution global mapping of above-ground biomass.
     She is also an organizer of the AI + Environment Summit, a full-day event designed
     to inspire, ignite and innovate work in AI for the environment.
+  registration_url: extra2
   youtube_id: mN0ENzlrUJE
   is_cain: false
 - id: '2025-04-10'
@@ -1224,6 +1258,7 @@
     more accessible through her popular science writings and active involvement in
     the MIR community. In 2023, she served as one of the Scientific Program Chairs
     for the International Society for Music Information Retrieval (ISMIR) Conference.'
+  registration_url: extra2
   youtube_id: noW-Q2kfb84
   is_cain: false
 - id: '2025-04-03'
@@ -1258,6 +1293,7 @@
     integrating high-resolution thermal and spatial data to support climate-responsive
     city planning. His work aims to inform data-driven policies for greener, more
     resilient cities.
+  registration_url: extra2
   youtube_id: 83XysQtGUDQ
   is_cain: false
 - id: '2025-03-27'
@@ -1295,6 +1331,7 @@
     on Earth system prediction, extreme event genesis, and multi-scale climate patterns.
     She emphasizes open-source tools, accessible communication, and interdisciplinary
     collaboration.
+  registration_url: extra2
   youtube_id: buEFjJQ-0pc
   is_cain: false
 - id: '2025-03-20'
@@ -1343,6 +1380,7 @@
     develop relevant open-source MIR packages such as librosa, mir-eval, and MSAF;
     contributed to PyTorch; and plays guitar, violin, cajón, and sings (and screams)
     in his spare time.
+  registration_url: extra2
   youtube_id: AbFT6IJC9cM
   is_cain: false
 - id: '2025-03-13'
@@ -1383,6 +1421,7 @@
     Computational and Mathematical Engineering from Stanford University, where she
     was advised by David Lobell and benefited from mentors at the Center on Food Security
     and the Environment and the Sustainability and AI Lab.'
+  registration_url: extra2
   youtube_id: -o9x_wwg8mQ
   is_cain: false
 - id: '2025-03-06'
@@ -1416,6 +1455,7 @@
     University (2016). Atakan has been granted two EIC Pathfinder CHIST-ERA projects
     in 2021 and 2024 as international coordinator and national PI, respectively, with
     a total funding value of over €2.2M.
+  registration_url: extra2
   youtube_id: x91bv6IJkck
   is_cain: false
 - id: '2025-02-20'
@@ -1449,6 +1489,7 @@
     have a PhD in Physical Geography and Ecosystem Science and an MSc in Geospatial
     Technologies. Currently, I am a senior researcher at the Center for Environmental
     and Climate Science, Lund University.
+  registration_url: extra2
   youtube_id: Gs3Tcfec6iY
   is_cain: false
 - id: '2025-02-06'
@@ -1489,6 +1530,7 @@
     (NINA), working at the interface of artificial intelligence, statistics, and biodiversity
     conservation. His work primarily focuses on developing deep learning tools to
     better analyze bioacoustic data.
+  registration_url: extra2
   is_cain: false
 - id: '2025-01-30'
   date: '2025-01-30'
@@ -1517,6 +1559,7 @@
     leadership experience in community building and international development, Amal
     is also an award-winning entrepreneur dedicated to transforming research into
     impactful real-world solutions.
+  registration_url: extra2
   youtube_id: 5h5ksMKEG5Q
   is_cain: false
 - id: '2025-01-23'
@@ -1557,6 +1600,7 @@
     sequential decision making in healthcare using historical data. Prior to joining
     Chalmers, he earned a Master of Science in Electrical and Computer Engineering
     from Carnegie Mellon University.
+  registration_url: extra2
   is_cain: false
 - id: '2025-01-16'
   date: '2025-01-16'
@@ -1595,6 +1639,7 @@
     AI. Its products are trusted by leading enterprises like Merck, Hinge Health,
     Electrolux, and Svea Solar. Backed by top-tier investors including NEA, Menlo
     Ventures, and EQT Ventures, Sana has raised over $130 million to date.'
+  registration_url: extra2
   is_cain: false
 - id: '2024-11-28'
   date: '2024-11-28'
@@ -1623,6 +1668,7 @@
     through optical remote sensing. He is currently working on applying advanced models
     to extract more accurate, large-scale hydrological insights from these diverse
     data sources.
+  registration_url: extra2
   youtube_id: S0guqSER0co
   is_cain: false
 - id: '2024-11-21'
@@ -1651,6 +1697,7 @@
     at COP29. He holds a Ph.D. from Yale University, where his research won a best
     thesis award. He is part of the core team on entrepreneurship at Climate Change
     AI.
+  registration_url: extra2
   youtube_id: n4uzazl1g4A
   is_cain: false
 - id: '2024-11-07'
@@ -1679,6 +1726,7 @@
     learning. In his research he develops machine learning methods for data with spatial-,
     temporal- and graph-structure, including combinations of these. He is also interested
     in applications of these methods to earth system modeling. https://joeloskarsson.github.io/
+  registration_url: extra2
   youtube_id: b2B9DYpFprc
   is_cain: false
 - id: '2024-10-24'
@@ -1713,6 +1761,7 @@
     in 2020 with highest distinction. He is deeply passionate about advancing machine
     learning techniques to address environmental challenges and combat the climate
     crisis
+  registration_url: extra2
   is_cain: false
 - id: '2024-10-17'
   date: '2024-10-17'
@@ -1757,6 +1806,7 @@
     a commercial branch (www.seanalytics.se) for DNA-based monitoring. Their tools
     and services are used in both in evolutionary biology as well as conservation
     research.'
+  registration_url: extra2
   is_cain: false
 - id: '2024-10-03'
   date: '2024-10-03'
@@ -1798,6 +1848,7 @@
     University of Copenhagen and the Pioneer Centre for AI, working on self-supervised
     learning for fetal ultrasound imaging with a focus on explainability and anomaly
     detection applications.
+  registration_url: extra2
   is_cain: false
 - id: '2024-09-26'
   date: '2024-09-26'
@@ -1833,6 +1884,7 @@
     neuronal activity using data-driven control theory. He is interested in developing
     practical pipelines for analyzing terabyte scale microscopy data, and in analyzing
     minimal brains and understanding their design principles.
+  registration_url: extra2
   is_cain: false
 - id: '2024-09-19'
   date: '2024-09-19'
@@ -1873,6 +1925,7 @@
     communities and the general public. She holds a MSc in Mathematics, Vision and
     Learning (MVA) from ENS Paris-Saclay and a Msc in Management and Social Entrepreneurship
     from ESSEC Business School.
+  registration_url: extra2
   is_cain: false
 - id: '2024-09-05'
   date: '2024-09-05'
@@ -1902,6 +1955,7 @@
     where her doctoral thesis focused on extending the Lund String Model for heavy
     ion collisions at particle colliders such as CERN. Her current research interests
     are physics-informed machine learning, ML for earth observation, and quantum computation.
+  registration_url: extra2
   is_cain: false
 - id: '2024-05-30'
   date: '2024-05-30'
@@ -1935,6 +1989,7 @@
     guillemot), fish stocks and fisheries, and dynamics of linked social-ecological
     systems (such as fisheries) and the role of management in shaping fisheries and
     other resource use systems. https://www.slu.se/cv/jonas-hentati-sundberg/'
+  registration_url: extra2
   is_cain: false
 - id: '2024-05-23'
   date: '2024-05-23'
@@ -1967,6 +2022,7 @@
     she explored a range of statistical methods to approximate the uncertainty dimensions
     surrounding future climate scenarios. Dr. Nath is currently based at the University
     of Oxford as a Postdoctoral researcher.
+  registration_url: extra2
   is_cain: false
 - id: '2024-05-16'
   date: '2024-05-16'
@@ -1998,6 +2054,7 @@
     Strathclyde in Glasgow, United Kingdom, and the Ph.D. degree in 2023 at the same
     institution, specialising in applications of computer vision to Earth observation
     data. Homepage: https://mikonvergence.github.io/'
+  registration_url: extra2
   is_cain: false
 - id: '2024-04-18'
   date: '2024-04-18'
@@ -2035,6 +2092,7 @@
     machine learning, with the mission to provide a more comprehensive view on the
     distribution of biodiversity, including hidden diversity of inconspicuous and
     even undescribed species through the use of environmental DNA.
+  registration_url: extra2
   is_cain: false
 - id: '2024-04-11'
   date: '2024-04-11'
@@ -2069,6 +2127,7 @@
     inference to estimate greenhouse gas fluxes using drone observations. She is interested
     in computational methods and the application of machine learning techniques to
     address environmental problems.
+  registration_url: extra2
   is_cain: false
 - id: '2024-04-04'
   date: '2024-04-04'
@@ -2107,6 +2166,7 @@
     did his master’s in quantum information theory and his Ph.D. in computational
     and statistical physics, developing multiscale molecular dynamics simulation methods.
     See his website https://karstenkreis.github.io/ for more details.
+  registration_url: extra2
   is_cain: false
 - id: '2024-03-28'
   date: '2024-03-28'
@@ -2142,6 +2202,7 @@
     Since 2022, he has been working as the co-lead of the Benchmarking Working Group
     in the IEEE GRSS Image Analysis and Data Fusion Technical Committee. His research
     interests include remote sensing, computer vision, and machine learning.
+  registration_url: extra2
   is_cain: false
 - id: '2024-03-21'
   date: '2024-03-21'
@@ -2183,6 +2244,7 @@
     in 2023 from Uppsala University for the thesis "Towards Accurate and Reliable
     Deep Regression Models", and received his MSc in Electrical Engineering from Linköping
     University in 2018.
+  registration_url: extra2
   is_cain: false
 - id: '2024-03-14'
   date: '2024-03-14'
@@ -2224,6 +2286,7 @@
     identification. Additionally, he contributes to open-source software tooling for
     computational bioacoustics and advocates for data standardization and sharing
     practices.
+  registration_url: extra2
   is_cain: false
 - id: '2024-02-22'
   date: '2024-02-22'
@@ -2253,6 +2316,7 @@
     control. Previously, he was a Marie-Curie Fellow at Harvard University and the
     University of Tübingen. He completed his doctorate training at Ludwig Maximilians
     University in Munich (LMU), after studying mathematics at LMU.
+  registration_url: extra2
   is_cain: false
 - id: '2024-02-08'
   date: '2024-02-08'
@@ -2262,6 +2326,7 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-02-08-liane-guillou.jpg
+  registration_url: extra2
   is_cain: false
 - id: '2024-01-25'
   date: '2024-01-25'
@@ -2272,6 +2337,7 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-01-25-joakim-lindblad.jpg
+  registration_url: extra2
   is_cain: false
 - id: '2024-01-18'
   date: '2024-01-18'
@@ -2306,6 +2372,7 @@
     Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review “Innovators
     Under 35” Award, and the Helmholtz Prize for fundamental contributions in Computer
     Vision. He is a member of the Royal Danish Academy of Sciences and Letters.
+  registration_url: extra2
   is_cain: false
 - id: '2023-12-07'
   date: '2023-12-07'
@@ -2334,6 +2401,7 @@
     of London. As an organizer of competitions for the application and development
     of AI, such as drug discovery or the real-robot-challenge.com, he advocates for
     the democratization and transparency of machine learning research.
+  registration_url: extra2
   is_cain: false
 - id: '2023-11-30'
   date: '2023-11-30'
@@ -2368,6 +2436,7 @@
     the mechanisms that generate, maintain, and preserve biodiversity. Specifically,
     this includes the ecology of species interactions, hierarchical Bayesian models
     for ecological predictions, and machine learning for biodiversity image analysis.
+  registration_url: extra2
   is_cain: false
 - id: '2023-11-23'
   date: '2023-11-23'
@@ -2407,6 +2476,7 @@
     first racing agent that can outperform the world’s best e-sports drivers and published
     results in the Nature journal. She started working in the field of Reinforcement
     Learning in 2020, when she joined Sony AI.
+  registration_url: extra2
   is_cain: false
 - id: '2023-11-16'
   date: '2023-11-16'
@@ -2449,6 +2519,7 @@
     in the application of reinforcement learning. In 2021, he received the prestigious
     Volvo Group Inventor Award, which recognized his contributions to a patent involving
     the use of reinforcement learning for coordinating multiple autonomous vehicles.
+  registration_url: extra2
   is_cain: false
 - id: '2023-11-09'
   date: '2023-11-09'
@@ -2489,6 +2560,7 @@
     bio-medicine. Her research has been funded by, among others, EU Horison 2020,
     Swedish Research Council, VINNOVA, and Cancerfonden (Swedish Cancer Society).  Her
     recent work is particularly focused on robust image registration approaches.'
+  registration_url: extra2
   is_cain: false
 - id: '2023-11-02'
   date: '2023-11-02'
@@ -2528,6 +2600,7 @@
     Fellowship, and best paper awards at ICML (honorable mention), ACM e-Energy (runner-up),
     PECI, the Duke Energy Data Analytics Symposium, and the NeurIPS workshop on AI
     for Social Good.
+  registration_url: extra2
   is_cain: false
 - id: '2023-10-19'
   date: '2023-10-19'
@@ -2562,6 +2635,7 @@
     deep learning for data generation. He defended his PhD at ENS (École normale supérieure
     Paris-Saclay), and has worked as a PostDoc at University of Oxford and a research
     scientist at CNRS (Centre national de la recherche scientifique).
+  registration_url: extra2
   is_cain: false
 - id: '2023-10-05'
   date: '2023-10-05'
@@ -2604,6 +2678,7 @@
     in the cross-disciplinary area. His research interests are intelligent data analysis
     and Machine Learning in the sciences (Neuroscience (specifically Brain-Computer
     Interfaces, Physics, Chemistry) and in industry.
+  registration_url: extra2
   is_cain: false
 - id: '2023-09-28'
   date: '2023-09-28'
@@ -2650,6 +2725,7 @@
     AstraZeneca, and RISE. He is the project initiator and principal investigator
     in a project on federated learning to combat anti-money laundering together with
     two of the largest banks in Sweden.
+  registration_url: extra2
   is_cain: false
 - id: '2023-09-21'
   date: '2023-09-21'
@@ -2690,6 +2766,7 @@
     spaceborne LIDAR. His current research interests include quantifying the uncertainty
     in such estimates and learning from imbalanced data, which are ubiquitous challenges
     when working with real-world data. Website: https://langnico.github.io/'
+  registration_url: extra2
   is_cain: false
 - id: '2023-09-14'
   date: '2023-09-14'
@@ -2721,6 +2798,7 @@
     Award, MIT TR35 Innovator Award, Intel Rising Star Award, and faculty awards from
     Google, Apple, and Meta. Prior to CMU, Virginia was a postdoc at Stanford University
     and received a Ph.D. in Computer Science from UC Berkeley.
+  registration_url: extra2
   is_cain: false
 - id: '2023-09-07'
   date: '2023-09-07'
@@ -2750,6 +2828,7 @@
     by Fredrik D. Johansson. He has a MSc in Engineering Mathematics from Chalmers
     University of Technology. Adam’s research is focused on the theory of Domain Adaptation
     and the underlying assumptions related to that.
+  registration_url: extra2
   is_cain: false
 - id: '2023-08-31'
   date: '2023-08-31'
@@ -2801,6 +2880,7 @@
     and Federated Learning. Through her studies, she, by proposing new Domain Adaptation
     and Federated Learning methods, has effectively addressed the problems within
     computer network security and Predictive Maintenance.
+  registration_url: extra2
   is_cain: false
 - id: '2023-05-25'
   date: '2023-05-25'
@@ -2968,6 +3048,7 @@
     in Tokyo, Japan. They received their PhD in Computer Science from the University
     of Tokyo in 2013 and MSc in Computer Science from the Royal Institute of Technology (KTH)
     in Stockholm, Sweden in 2010.'
+  registration_url: extra2
   is_cain: false
 - id: '2023-04-20'
   date: '2023-04-20'
