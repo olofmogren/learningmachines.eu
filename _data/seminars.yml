@@ -231,6 +231,8 @@
   affiliation: Postdoc, University of Copenhagen
   time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
+  city: RISE Lund Office (Scheelevägen 17)
+  venue_address: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2026-09-17-jaime-caballer-revenga.jpg
   abstract: 'This project addresses one major challenge in climate science: accurately
     quantifying how forests remove carbon dioxide (CO₂) from the atmosphere. Forests
@@ -472,6 +474,8 @@
   affiliation: Assistant Professor, University of Copenhagen
   time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
+  city: Gothenburg
+  venue_address: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2026-03-26-jeppe-rasmussen.webp
   abstract: 'Bioacoustics, the study of nature’s sounds, has long been a powerful
     tool for studying wildlife. With the rise of artificial intelligence, particularly
@@ -518,6 +522,8 @@
   affiliation: PhD candidate, RISE Research Institutes of Sweden
   time: 15:00 CET
   location: Scheelevägen 17, Lund
+  city: Lund
+  venue_address: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2026-03-19-isabelle-tingzon.jpg
   abstract: 'This talk highlights how AI and Earth Observation (EO) are transforming
     data availability for two global challenges: climate resilience and universal
@@ -1184,6 +1190,8 @@
   affiliation: Epidemic sound
   time: 15:00 CET
   location: Room Kruse, Isafjordsgatan 22, Kista
+  city: Kista
+  venue_address: Room Kruse, Isafjordsgatan 22, Kista
   photo: /assets/images/speakers/2025-04-10-beici-liang.jpg
   abstract: 'Music Information Retrieval (MIR) and AI-driven techniques have played
     a crucial role in protecting music copyrights in the era of user-generated content
@@ -1418,6 +1426,8 @@
   affiliation: Researcher, Lund University
   time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
+  city: RISE Lund Office (Scheelevägen 17)
+  venue_address: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2025-02-20-abdulhakim-abdi.jpg
   abstract: In the face of a global biodiversity crisis, the ability to efficiently
     monitor ecological change across space and time has never been more accessible.
@@ -1518,6 +1528,8 @@
   affiliation: PhD candidate, Chalmers University of Technology
   time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
+  city: Gothenburg
+  venue_address: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2025-01-23-newton-mwai-kinyanjui.jpg
   abstract: 'Personalizing treatments for patients involves a period during which
     different treatments from a set of available options are tried until an optimal
@@ -1553,6 +1565,8 @@
   affiliation: Sana Labs
   time: 15:00 CET
   location: Isafjordsgatan 22, Kista
+  city: Kista
+  venue_address: Isafjordsgatan 22, Kista
   photo: /assets/images/speakers/2025-01-16-oscar-tackstrom.jpg
   abstract: 'The landscape of enterprise knowledge access is rapidly evolving from
     simple search and discovery, through intelligent assistants, and now towards reasoning
@@ -1591,6 +1605,8 @@
   affiliation: PhD candidate, Lund University
   time: 15:00 CET
   location: Scheelevägen 17, Lund
+  city: Lund
+  venue_address: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-11-28-alireza-taheri-dehkordi.jpg
   abstract: The global decline in water quality, exacerbated by climate change and
     population growth, underscores the need for continuous and accurate monitoring
@@ -1673,6 +1689,8 @@
   affiliation: Assistant Professor, University of Copenhagen
   time: 15:00 CET
   location: Scheelevägen 17, Lund
+  city: Lund
+  venue_address: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-10-24-ankit-kariryaa.jpg
   abstract: Recent advances in remote sensing and machine learning have made it possible
     to create digital twins of individual trees, providing unprecedented insights
@@ -1705,6 +1723,8 @@
   affiliation: Associate professor, University of Gothenburg
   time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
+  city: Gothenburg
+  venue_address: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2024-10-17-matthias-obst.jpg
   abstract: Biological monitoring needs to improve radically to serve our understanding
     of marine ecosystems and biodiversity under long-term global change and multiple
@@ -1746,6 +1766,8 @@
   affiliation: PhD candidate, University of Copenhagen & Pioneer Centre for AI
   time: 15:00 CET
   location: Scheelevägen 17, Lund
+  city: Lund
+  venue_address: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-10-03-jakob-ambsdorf.jpg
   abstract: 'The application of Deep Learning to Medical Imaging has largely been
     enabled by the careful collection of image labels by medical domain experts. In
@@ -1860,6 +1882,8 @@
   affiliation: Researcher, RISE Research Institutes of Sweden
   time: 15:00 CET
   location: Scheelevägen 17, Lund
+  city: Lund
+  venue_address: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-09-05-smita-chakraborty.jpg
   abstract: The AI-SAXS project explores the possibilities of using machine learning
     to interpret the information in the small angle X-ray scattering curves together
@@ -2257,6 +2281,8 @@
   affiliation: Professor, University of Copenhagen
   time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
+  city: RISE Lund Office (Scheelevägen 17)
+  venue_address: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2024-01-18-serge-belongie.jpg
   abstract: Fine-grained image analysis (FGIA) is a longstanding and fundamental problem
     in computer vision and pattern recognition, and underpins a diverse set of real-world
@@ -2587,6 +2613,8 @@
   affiliation: Researcher, AI Sweden
   time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls backe 4)
+  city: RISE Gothenburg Office (Arvid Hedvalls backe 4)
+  venue_address: RISE Gothenburg Office (Arvid Hedvalls backe 4)
   photo: /assets/images/speakers/2023-09-28-johan-ostman.jpg
   abstract: 'Federated learning is a machine learning paradigm that promises to revolutionize
     how organizations collaborate on sensitive tasks. At its core, this technique
@@ -2631,6 +2659,8 @@
   affiliation: Postdoc, University of Copenhagen
   time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
+  city: RISE Lund Office (Scheelevägen 17)
+  venue_address: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2023-09-21-nico-lang.jpg
   abstract: Mapping forest structure on a global scale is an important component for
     understanding the Earth's carbon cycle and conserving biodiversity. Several new
@@ -2700,6 +2730,8 @@
   affiliation: PhD candidate, Chalmers University of Technology
   time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
+  city: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
+  venue_address: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
   photo: /assets/images/speakers/2023-09-07-adam-breitholtz.jpg
   abstract: Successful unsupervised domain adaptation (UDA) is guaranteed only under
     strong assumptions such as covariate shift and overlap between input domains.
@@ -2727,6 +2759,8 @@
   affiliation: PhD candidate, Halmstad University
   time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
+  city: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
+  venue_address: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
   photo: /assets/images/speakers/2023-08-31-zahra-taghiyar-renan.jpg
   abstract: 'In recent years, data-driven methods have received increasing attention
     across many fields. These methods are generally based on machine learning and
@@ -2880,6 +2914,8 @@
   affiliation: University College London (UCL)
   time: 15:00 CET
   location: Isafjordsgatan 22, Kista
+  city: Kista
+  venue_address: Isafjordsgatan 22, Kista
   photo: /assets/images/speakers/2023-04-27-pontus-stenetorp.jpg
   abstract: 'Natural Language Processing (NLP) as a field (as well as Artificial Intelligence
     in general) is currently seemingly undergoing a phase of radical change. The reasons
