@@ -5,18 +5,54 @@ title: Upcoming Seminars
 
 <div class="hero">
   <div class="container">
-    <h1>Learning <span>Machines</span></h1>
-    <p class="hero-tagline">Open seminars on artificial intelligence, machine learning systems, and climate analytics. Live streamed and hybrid in Sweden.</p>
+    <div class="hero-brand-wrap">
+      <img src="{{ '/assets/images/lm-logo.svg' | relative_url }}" alt="Learning Machines Seminars" class="hero-logo-img">
+    </div>
+    <p class="hero-tagline">
+      Technical, open-access seminars focused on the architecture, training dynamics, and deployment of modern AI systems.
+    </p>
+
+    <!-- Key seminar highlights -->
+    <div class="hero-badges">
+      <div class="badge-item">
+        <span class="badge-icon">⏱</span>
+        <span>Alternate Thursdays &bull; 15:00 CET</span>
+      </div>
+      <div class="badge-item">
+        <span class="badge-icon">🌐</span>
+        <span>Conducted in English</span>
+      </div>
+      <div class="badge-item">
+        <span class="badge-icon">🎟</span>
+        <span>Free & Open Access</span>
+      </div>
+      <div class="badge-item">
+        <span class="badge-icon">💬</span>
+        <span>Live Interactive Q&amp;A</span>
+      </div>
+    </div>
+
+    <!-- Prominent Hero CTA -->
+    <div class="hero-actions">
+      <a href="https://form.apsis.one/LEaXXekxp56BEA" target="_blank" rel="noopener noreferrer" class="btn-primary-glow">
+        📬 Subscribe for Seminar Updates &rarr;
+      </a>
+    </div>
   </div>
 </div>
 
 <div class="container">
+  <div class="section-title-wrap">
+    <h2 class="section-heading">Scheduled Seminars</h2>
+    <p class="section-sub">Connect directly with researchers and engineers building real-world AI.</p>
+  </div>
+
   <section class="seminars-list">
     {% for seminar in site.data.seminars %}
       {% unless seminar.youtube_id and seminar.youtube_id != "" %}
         <article class="seminar-card">
           <div class="seminar-header">
-            <span>📅 {{ seminar.date }} &bull; {{ seminar.time }}</span>
+            <span>📅 {{ seminar.date }} &bull; {{ seminar.time | default: "15:00 CET" }}</span>
             <span>📍 {{ seminar.location | default: "Sweden / Live Stream" }}</span>
           </div>
           <div class="seminar-body">
@@ -46,4 +82,33 @@ title: Upcoming Seminars
       {% endunless %}
     {% endfor %}
   </section>
+
+  <!-- Dedicated Mailing List Banner -->
+  <section class="newsletter-banner">
+    <div class="newsletter-inner">
+      <div class="newsletter-text">
+        <h3>Never Miss a Session</h3>
+        <p>Sign up to receive schedule announcements, abstracts, calendar invites, and direct streaming links straight to your inbox.</p>
+      </div>
+      <div class="newsletter-action">
+        <a href="https://form.apsis.one/LEaXXekxp56BEA" target="_blank" rel="noopener noreferrer" class="btn-newsletter">
+          Join the Mailing List &rarr;
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Audience & Scope Info Callout -->
+  <section class="audience-callout">
+    <div class="callout-card">
+      <h3>Who Should Attend?</h3>
+      <p>
+        The discussions are targeted at practitioners, researchers, and engineers who possess a solid grounding in machine learning fundamentals and wish to explore cutting-edge solutions to technical challenges. Whether your work focuses on core algorithmic breakthroughs or applying ML in production environments, sessions are engineered to provide practical, unfiltered insights from active builders.
+      </p>
+      <div class="callout-cta">
+        <a href="{{ '/about.html' | relative_url }}" class="btn-secondary">Learn more about the series &rarr;</a>
+      </div>
+    </div>
+  </section>
 </div>
+
