@@ -1,8 +1,9 @@
 - id: '2027-03-18'
   date: '2027-03-18'
-  speaker: PhD candidate Hao Wei
+  speaker: Hao Wei
+  speaker_title: PhD candidate
   title: ''
-  affiliation: Technical University of Munich (TUM)
+  affiliation: PhD candidate, Technical University of Munich (TUM)
   time: 15:00 CET
   location: Sweden / Live Stream
   is_cain: false
@@ -17,36 +18,40 @@
   is_cain: false
 - id: '2027-01-14'
   date: '2027-01-14'
-  speaker: Assistant Professor Maria Perez Ortiz
+  speaker: Maria Perez Ortiz
+  speaker_title: Assistant Professor
   title: ''
-  affiliation: University College London
+  affiliation: Assistant Professor, University College London
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2027-01-14-maria-perez-ortiz.jpg
   is_cain: false
 - id: '2026-12-17'
   date: '2026-12-17'
-  speaker: PhD candidate Lester Jame Miranda
+  speaker: Lester Jame Miranda
+  speaker_title: PhD candidate
   title: ''
-  affiliation: University of Cambridge
+  affiliation: PhD candidate, University of Cambridge
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-12-17-lester-jame-miranda.jpg
   is_cain: false
 - id: '2026-12-03'
   date: '2026-12-03'
-  speaker: Post Doc Miguel Costa
+  speaker: Miguel Costa
+  speaker_title: Post Doc
   title: ''
-  affiliation: Technical University of Denmark
+  affiliation: Post Doc, Technical University of Denmark
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-12-03-miguel-costa.jpg
   is_cain: false
 - id: '2026-11-05'
   date: '2026-11-05'
-  speaker: Researcher Anastasia Kakouri
+  speaker: Anastasia Kakouri
+  speaker_title: Researcher
   title: 'AtmoSTEM: From high-resolution emission mapping to environmental intelligence'
-  affiliation: University of Aegean
+  affiliation: Researcher, University of Aegean
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-11-05-anastasia-kakouri.png
@@ -89,10 +94,11 @@
   is_cain: false
 - id: '2026-10-22'
   date: '2026-10-22'
-  speaker: Post doc Luca Ciampi
+  speaker: Luca Ciampi
+  speaker_title: Post doc
   title: 'How machines count: Visual object counting from limited supervision to the
     open world'
-  affiliation: ISTI-CNR
+  affiliation: Post doc, ISTI-CNR
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-10-22-luca-ciampi.jpg
@@ -140,9 +146,10 @@
   is_cain: false
 - id: '2026-10-08'
   date: '2026-10-08'
-  speaker: PhD candidate Rangel Daroya
+  speaker: Rangel Daroya
+  speaker_title: PhD candidate
   title: Machine perception for scientific measurement from satellite imagery
-  affiliation: University of Massachusetts Amherst
+  affiliation: PhD candidate, University of Massachusetts Amherst
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-10-08-rangel-daroya.png
@@ -186,9 +193,10 @@
   is_cain: false
 - id: '2026-09-24'
   date: '2026-09-24'
-  speaker: Associate Professor Ana Lucic
+  speaker: Ana Lucic
+  speaker_title: Associate Professor
   title: 'Aurora: A foundation model of the Earth system'
-  affiliation: University of Amsterdam
+  affiliation: Associate Professor, University of Amsterdam
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-09-24-ana-lucic.png
@@ -217,9 +225,10 @@
   is_cain: false
 - id: '2026-09-17'
   date: '2026-09-17'
-  speaker: Postdoc Jaime Caballer Revenga
+  speaker: Jaime Caballer Revenga
+  speaker_title: Postdoc
   title: Towards verified tree-level CO2 and H2O physiology, resolved at 30-min resolution
-  affiliation: University of Copenhagen
+  affiliation: Postdoc, University of Copenhagen
   time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2026-09-17-jaime-caballer-revenga.jpg
@@ -274,10 +283,11 @@
   is_cain: false
 - id: '2026-08-27'
   date: '2026-08-27'
-  speaker: PhD candidate Ariel Flint Ashery
+  speaker: Ariel Flint Ashery
+  speaker_title: PhD candidate
   title: 'More is different: emergent social conventions and tipping points in AI
     populations'
-  affiliation: City St George’s, University of London
+  affiliation: PhD candidate, City St George’s, University of London
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-08-27-ariel-flint-ashery.jpg
@@ -303,9 +313,11 @@
   is_cain: false
 - id: '2026-06-25'
   date: '2026-06-25'
-  speaker: Professor Markus Reichstein
+  speaker: Markus Reichstein
+  speaker_title: Professor
   title: Understanding the complex Earth system with Machine Learning and Hybrid Modelling
-  affiliation: Max-Planck-Institute for Biogeochemistry and ELLIS Unit Jena
+  affiliation: Professor, Max-Planck-Institute for Biogeochemistry and ELLIS Unit
+    Jena
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-06-25-markus-reichstein.jpg
@@ -343,9 +355,10 @@
   is_cain: false
 - id: '2026-06-11'
   date: '2026-06-11'
-  speaker: Professor Gustau Camps-Valls
+  speaker: Gustau Camps-Valls
+  speaker_title: Professor
   title: A Critical Look at Explainable AI
-  affiliation: University of Valencia
+  affiliation: Professor, University of Valencia
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-06-11-gustau-camps-valls.png
@@ -376,9 +389,10 @@
   is_cain: false
 - id: '2026-05-28'
   date: '2026-05-28'
-  speaker: Postdoc Kelsey Doerksen
+  speaker: Kelsey Doerksen
+  speaker_title: Postdoc
   title: 'EarthShift: A benchmark for real-world ditribution shifts in Earth observation'
-  affiliation: University of Cape Town and Arizona State University
+  affiliation: Postdoc, University of Cape Town and Arizona State University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-05-28-kelsey-doerksen.jpg
@@ -409,10 +423,11 @@
   is_cain: false
 - id: '2026-05-07'
   date: '2026-05-07'
-  speaker: PhD candidate Solmaz Khazaei
+  speaker: Solmaz Khazaei
+  speaker_title: PhD candidate
   title: Enhanced Flood Detection through Innovative integration of PolSAR, metaheuristic
     optimization, and deep learning-based segmentation
-  affiliation: KTH Royal Institute of Technology
+  affiliation: PhD candidate, KTH Royal Institute of Technology
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-05-07-solmaz-khazaei.jpg
@@ -450,10 +465,11 @@
   is_cain: false
 - id: '2026-03-26'
   date: '2026-03-26'
-  speaker: Assistant Professor Jeppe Rasmussen
+  speaker: Jeppe Rasmussen
+  speaker_title: Assistant Professor
   title: 'AI in the wild: How Neural Networks Help Us Understand Our World Through
     Sound'
-  affiliation: University of Copenhagen
+  affiliation: Assistant Professor, University of Copenhagen
   time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2026-03-26-jeppe-rasmussen.webp
@@ -495,10 +511,11 @@
   is_cain: false
 - id: '2026-03-19'
   date: '2026-03-19'
-  speaker: PhD candidate Isabelle Tingzon
+  speaker: Isabelle Tingzon
+  speaker_title: PhD candidate
   title: 'Bridging data gaps in the Global South: Harnessing AI and Earth observation
     in the humanitarian sector'
-  affiliation: RISE Research Institutes of Sweden
+  affiliation: PhD candidate, RISE Research Institutes of Sweden
   time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2026-03-19-isabelle-tingzon.jpg
@@ -537,9 +554,10 @@
   is_cain: false
 - id: '2026-02-19'
   date: '2026-02-19'
-  speaker: PhD candidate Sanja Karilanova
+  speaker: Sanja Karilanova
+  speaker_title: PhD candidate
   title: Bridging Spiking Neural Networks and Deep State-Space Models
-  affiliation: Uppsala University
+  affiliation: PhD candidate, Uppsala University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-02-19-sanja-karilanova.jpg
@@ -653,10 +671,11 @@
   is_cain: false
 - id: '2025-12-11'
   date: '2025-12-11'
-  speaker: PhD Student Zhengpeng (Frank) Feng
+  speaker: Zhengpeng (Frank) Feng
+  speaker_title: PhD Student
   title: 'TESSERA: precomputed FAIR global pixel embeddings for earth representation
     and analysis'
-  affiliation: Cambridge
+  affiliation: PhD Student, Cambridge
   time: 15:00 CET
   location: Sweden / Live Stream
   abstract: 'Petabytes of satellite Earth Observation (EO) data are freely available
@@ -683,9 +702,10 @@
   is_cain: false
 - id: '2025-11-27'
   date: '2025-11-27'
-  speaker: Professor Kalle Åström
+  speaker: Kalle Åström
+  speaker_title: Professor
   title: From structure from motion to structure from sound
-  affiliation: LTH, Lund University
+  affiliation: Professor, LTH, Lund University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-11-27-kalle-astrom.jpg
@@ -717,10 +737,11 @@
   is_cain: false
 - id: '2025-11-20'
   date: '2025-11-20'
-  speaker: Researcher Katarzyna Michalowska
+  speaker: Katarzyna Michalowska
+  speaker_title: Researcher
   title: Multi-resolution learning with neural operators and long short-term memory
     neural networks
-  affiliation: SINTEF
+  affiliation: Researcher, SINTEF
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-11-20-katarzyna-michalowska.jpg
@@ -763,10 +784,11 @@
   is_cain: false
 - id: '2025-11-13'
   date: '2025-11-13'
-  speaker: PhD Student Nora Gourmelon
+  speaker: Nora Gourmelon
+  speaker_title: PhD Student
   title: Self-supervised pre-training for glacier calving front extraction from synthetic
     aperture radar imagery
-  affiliation: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+  affiliation: PhD Student, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-11-13-nora-gourmelon.jpg
@@ -807,9 +829,10 @@
   is_cain: false
 - id: '2025-11-06'
   date: '2025-11-06'
-  speaker: PhD Student Felix Köhler
+  speaker: Felix Köhler
+  speaker_title: PhD Student
   title: From numerical simulators of PDEs to neural emulators and back
-  affiliation: TU Munich
+  affiliation: PhD Student, TU Munich
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-11-06-felix-kohler.jpg
@@ -866,9 +889,10 @@
   is_cain: false
 - id: '2025-10-09'
   date: '2025-10-09'
-  speaker: Researcher Sebastian Hafner
+  speaker: Sebastian Hafner
+  speaker_title: Researcher
   title: Earth observation and deep learning for urban applications
-  affiliation: RISE Research Institutes of Sweden
+  affiliation: Researcher, RISE Research Institutes of Sweden
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-10-09-sebastian-hafner.jpg
@@ -935,9 +959,10 @@
   is_cain: false
 - id: '2025-09-11'
   date: '2025-09-11'
-  speaker: PhD Student Georges Le Bellier
+  speaker: Georges Le Bellier
+  speaker_title: PhD Student
   title: Generative domain adaptation and foundation models for robust Earth observation
-  affiliation: CNAM
+  affiliation: PhD Student, CNAM
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-09-11-georges-le-bellier.jpg
@@ -977,10 +1002,11 @@
   is_cain: false
 - id: '2025-08-28'
   date: '2025-08-28'
-  speaker: PhD Student Markus Pettersson
+  speaker: Markus Pettersson
+  speaker_title: PhD Student
   title: Debiasing AI predictions for causal inference without fresh ground truth
     data
-  affiliation: Chalmers University of Technology
+  affiliation: PhD Student, Chalmers University of Technology
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-08-28-markus-pettersson.jpg
@@ -1021,9 +1047,10 @@
   is_cain: false
 - id: '2025-06-19'
   date: '2025-06-19'
-  speaker: Assistant Professor Lily Xu
+  speaker: Lily Xu
+  speaker_title: Assistant Professor
   title: 'High-stakes decisions from low-quality data: AI decision-making for conservation'
-  affiliation: Columbia University
+  affiliation: Assistant Professor, Columbia University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-06-19-lily-xu.jpg
@@ -1050,9 +1077,10 @@
   is_cain: false
 - id: '2025-05-22'
   date: '2025-05-22'
-  speaker: PhD Student John Martinsson
+  speaker: John Martinsson
+  speaker_title: PhD Student
   title: Efficient and precise annotation of local structures in data
-  affiliation: RISE and Lund University
+  affiliation: PhD Student, RISE and Lund University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-05-22-john-martinsson.png
@@ -1113,9 +1141,10 @@
   is_cain: false
 - id: '2025-05-08'
   date: '2025-05-08'
-  speaker: PhD student Ghjulia Sialelli
+  speaker: Ghjulia Sialelli
+  speaker_title: PhD student
   title: SatML for large-scale above-ground biomass estimation
-  affiliation: ETH Zurich
+  affiliation: PhD student, ETH Zurich
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-05-08-ghjulia-sialelli.jpg
@@ -1191,10 +1220,11 @@
   is_cain: false
 - id: '2025-04-03'
   date: '2025-04-03'
-  speaker: PhD candidate Abdul Shaamala
+  speaker: Abdul Shaamala
+  speaker_title: PhD candidate
   title: 'Optimising green infrastructure for climate-resilient cities: AI-driven
     approaches to urban cooling'
-  affiliation: Queensland University of Technology
+  affiliation: PhD candidate, Queensland University of Technology
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-04-03-abdul-shaamala.jpg
@@ -1224,9 +1254,10 @@
   is_cain: false
 - id: '2025-03-27'
   date: '2025-03-27'
-  speaker: Assistant Professor María J. Molina
+  speaker: María J. Molina
+  speaker_title: Assistant Professor
   title: Machine learning for Earth system prediction and predictability
-  affiliation: University of Maryland
+  affiliation: Assistant Professor, University of Maryland
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-03-27-maria-j.-molina.jpg
@@ -1260,9 +1291,10 @@
   is_cain: false
 - id: '2025-03-20'
   date: '2025-03-20'
-  speaker: Researcher Oriol Nieto
+  speaker: Oriol Nieto
+  speaker_title: Researcher
   title: GenAI for sound design
-  affiliation: Adobe
+  affiliation: Researcher, Adobe
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-03-20-oriol-nieto.jpg
@@ -1307,9 +1339,10 @@
   is_cain: false
 - id: '2025-03-13'
   date: '2025-03-13'
-  speaker: Assistant Professor Sherrie Wang
+  speaker: Sherrie Wang
+  speaker_title: Assistant Professor
   title: Reliable conclusions from remote sensing maps
-  affiliation: MIT
+  affiliation: Assistant Professor, MIT
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-03-13-sherrie-wang.jpg
@@ -1346,9 +1379,10 @@
   is_cain: false
 - id: '2025-03-06'
   date: '2025-03-06'
-  speaker: Assistant Professor Atakan Aral
+  speaker: Atakan Aral
+  speaker_title: Assistant Professor
   title: Edge AI and IoT-Driven Water Quality Monitoring
-  affiliation: University of Vienna
+  affiliation: Assistant Professor, University of Vienna
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-03-06-atakan-aral.jpg
@@ -1378,9 +1412,10 @@
   is_cain: false
 - id: '2025-02-20'
   date: '2025-02-20'
-  speaker: Researcher Abdulhakim Abdi
+  speaker: Abdulhakim Abdi
+  speaker_title: Researcher
   title: Tech-informed nature conservation - are we there yet?
-  affiliation: Lund University
+  affiliation: Researcher, Lund University
   time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2025-02-20-abdulhakim-abdi.jpg
@@ -1408,10 +1443,11 @@
   is_cain: false
 - id: '2025-02-06'
   date: '2025-02-06'
-  speaker: Researcher Benjamin Cretois
+  speaker: Benjamin Cretois
+  speaker_title: Researcher
   title: 'Leveraging AI for Large-Scale Acoustic Biodiversity Monitoring: Insights
     from TABMON'
-  affiliation: Norwegian Institute for Nature Research
+  affiliation: Researcher, Norwegian Institute for Nature Research
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-02-06-benjamin-cretois.jpg
@@ -1446,10 +1482,11 @@
   is_cain: false
 - id: '2025-01-30'
   date: '2025-01-30'
-  speaker: PhD student Amal Nammouchi
+  speaker: Amal Nammouchi
+  speaker_title: PhD student
   title: 'Leveraging AI for Climate Resilience in Africa: Challenges, Opportunities,
     and the Need for Collaboration'
-  affiliation: Karlstad University and AfriClimate AI
+  affiliation: PhD student, Karlstad University and AfriClimate AI
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2025-01-30-amal-nammouchi.jpg
@@ -1474,10 +1511,11 @@
   is_cain: false
 - id: '2025-01-23'
   date: '2025-01-23'
-  speaker: PhD candidate Newton Mwai Kinyanjui
+  speaker: Newton Mwai Kinyanjui
+  speaker_title: PhD candidate
   title: Improving treatment personalization with structures in sequential decision
     making
-  affiliation: Chalmers University of Technology
+  affiliation: PhD candidate, Chalmers University of Technology
   time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2025-01-23-newton-mwai-kinyanjui.jpg
@@ -1546,10 +1584,11 @@
   is_cain: false
 - id: '2024-11-28'
   date: '2024-11-28'
-  speaker: PhD candidate Alireza Taheri Dehkordi
+  speaker: Alireza Taheri Dehkordi
+  speaker_title: PhD candidate
   title: Estimation of water quality parameters using remote sensing data and machine
     learning models
-  affiliation: Lund University
+  affiliation: PhD candidate, Lund University
   time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-11-28-alireza-taheri-dehkordi.jpg
@@ -1600,9 +1639,10 @@
   is_cain: false
 - id: '2024-11-07'
   date: '2024-11-07'
-  speaker: PhD candidate Joel Oskarsson
+  speaker: Joel Oskarsson
+  speaker_title: PhD candidate
   title: Frontiers in machine learning for weather forecasting
-  affiliation: Linköping University
+  affiliation: PhD candidate, Linköping University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-11-07-joel-oskarsson.jpg
@@ -1627,9 +1667,10 @@
   is_cain: false
 - id: '2024-10-24'
   date: '2024-10-24'
-  speaker: Assistant Professor Ankit Kariryaa
+  speaker: Ankit Kariryaa
+  speaker_title: Assistant Professor
   title: Deep Learning for digital twins of individual trees
-  affiliation: University of Copenhagen
+  affiliation: Assistant Professor, University of Copenhagen
   time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-10-24-ankit-kariryaa.jpg
@@ -1657,10 +1698,11 @@
   is_cain: false
 - id: '2024-10-17'
   date: '2024-10-17'
-  speaker: Associate professor Matthias Obst
+  speaker: Matthias Obst
+  speaker_title: Associate professor
   title: Digital Twins & observation systems for monitoring marine biodiversity and
     change
-  affiliation: University of Gothenburg
+  affiliation: Associate professor, University of Gothenburg
   time: 15:00 CET
   location: Lindholmsallén 10, Gothenburg
   photo: /assets/images/speakers/2024-10-17-matthias-obst.jpg
@@ -1698,9 +1740,10 @@
   is_cain: false
 - id: '2024-10-03'
   date: '2024-10-03'
-  speaker: PhD candidate Jakob Ambsdorf
+  speaker: Jakob Ambsdorf
+  speaker_title: PhD candidate
   title: Medical image analysis with limited labels
-  affiliation: University of Copenhagen & Pioneer Centre for AI
+  affiliation: PhD candidate, University of Copenhagen & Pioneer Centre for AI
   time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-10-03-jakob-ambsdorf.jpg
@@ -1736,9 +1779,10 @@
   is_cain: false
 - id: '2024-09-26'
   date: '2024-09-26'
-  speaker: Postdoc Charlie Fieseler
+  speaker: Charlie Fieseler
+  speaker_title: Postdoc
   title: How to build a brain
-  affiliation: University of Vienna
+  affiliation: Postdoc, University of Vienna
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-09-26-charlie-fieseler.jpg
@@ -1770,9 +1814,10 @@
   is_cain: false
 - id: '2024-09-19'
   date: '2024-09-19'
-  speaker: PhD student Mélisande Teng
+  speaker: Mélisande Teng
+  speaker_title: PhD student
   title: Species distribution modeling using remote sensing and citizen science data
-  affiliation: MILA and Universite de Montreal
+  affiliation: PhD student, MILA and Universite de Montreal
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-09-19-melisande-teng.jpg
@@ -1809,9 +1854,10 @@
   is_cain: false
 - id: '2024-09-05'
   date: '2024-09-05'
-  speaker: Researcher Smita Chakraborty
+  speaker: Smita Chakraborty
+  speaker_title: Researcher
   title: 'AI-SAXS: Decoding Structural Complexity with Intelligent Scattering Analysis'
-  affiliation: RISE Research Institutes of Sweden
+  affiliation: Researcher, RISE Research Institutes of Sweden
   time: 15:00 CET
   location: Scheelevägen 17, Lund
   photo: /assets/images/speakers/2024-09-05-smita-chakraborty.jpg
@@ -1931,9 +1977,10 @@
   is_cain: false
 - id: '2024-04-18'
   date: '2024-04-18'
-  speaker: Assistant Professor Tobias Andermann
+  speaker: Tobias Andermann
+  speaker_title: Assistant Professor
   title: Spatial biodiversity modeling with remote sensing and AI
-  affiliation: Uppsala University
+  affiliation: Assistant Professor, Uppsala University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-04-18-tobias-andermann.png
@@ -1967,9 +2014,10 @@
   is_cain: false
 - id: '2024-04-11'
   date: '2024-04-11'
-  speaker: PhD Candidate Alouette van Hove
+  speaker: Alouette van Hove
+  speaker_title: PhD Candidate
   title: Guiding drones by information gain
-  affiliation: University of Oslo
+  affiliation: PhD Candidate, University of Oslo
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-04-11-alouette-van-hove.jpg
@@ -2038,9 +2086,10 @@
   is_cain: false
 - id: '2024-03-28'
   date: '2024-03-28'
-  speaker: Assistant Professor Yonghao Xu
+  speaker: Yonghao Xu
+  speaker_title: Assistant Professor
   title: Machine learning for remote sensing
-  affiliation: Linköping University
+  affiliation: Assistant Professor, Linköping University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-03-28-yonghao-xu.jpg
@@ -2113,9 +2162,10 @@
   is_cain: false
 - id: '2024-03-14'
   date: '2024-03-14'
-  speaker: PhD candidate Santiago Martinez Balvanera
+  speaker: Santiago Martinez Balvanera
+  speaker_title: PhD candidate
   title: 'Data-driven bat monitoring: leveraging machine learning for effective solutions'
-  affiliation: University College London
+  affiliation: PhD candidate, University College London
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-03-14-santiago-martinez-balvanera.jpg
@@ -2153,9 +2203,10 @@
   is_cain: false
 - id: '2024-02-22'
   date: '2024-02-22'
-  speaker: Assistant Professor Alexander Mathis
+  speaker: Alexander Mathis
+  speaker_title: Assistant Professor
   title: Measuring behavior and modeling the brain with machine learning
-  affiliation: EPFL
+  affiliation: Assistant Professor, EPFL
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-02-22-alexander-mathis.jpg
@@ -2190,18 +2241,20 @@
   is_cain: false
 - id: '2024-01-25'
   date: '2024-01-25'
-  speaker: Professor Joakim Lindblad
+  speaker: Joakim Lindblad
+  speaker_title: Professor
   title: ''
-  affiliation: Uppsala University
+  affiliation: Professor, Uppsala University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2024-01-25-joakim-lindblad.jpg
   is_cain: false
 - id: '2024-01-18'
   date: '2024-01-18'
-  speaker: Professor Serge Belongie
+  speaker: Serge Belongie
+  speaker_title: Professor
   title: Challenges in Fine-Grained Image Analysis
-  affiliation: University of Copenhagen
+  affiliation: Professor, University of Copenhagen
   time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2024-01-18-serge-belongie.jpg
@@ -2230,9 +2283,10 @@
   is_cain: false
 - id: '2023-12-07'
   date: '2023-12-07'
-  speaker: Associate Professor Stefan Bauer
+  speaker: Stefan Bauer
+  speaker_title: Associate Professor
   title: Neural causal models
-  affiliation: TU Munich
+  affiliation: Associate Professor, TU Munich
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-12-07-stefan-bauer.jpg
@@ -2372,9 +2426,10 @@
   is_cain: false
 - id: '2023-11-09'
   date: '2023-11-09'
-  speaker: Professor Nataša Sladoje
+  speaker: Nataša Sladoje
+  speaker_title: Professor
   title: 'Automated alignment of multimodal images: To (deep) learn – or not?'
-  affiliation: Uppsala University
+  affiliation: Professor, Uppsala University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-11-09-natasa-sladoje.jpg
@@ -2411,9 +2466,10 @@
   is_cain: false
 - id: '2023-11-02'
   date: '2023-11-02'
-  speaker: Assistant Professor Priya Donti
+  speaker: Priya Donti
+  speaker_title: Assistant Professor
   title: Optimization-in-the-loop ML for energy and climate
-  affiliation: MIT and Climate Change AI
+  affiliation: Assistant Professor, MIT and Climate Change AI
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-11-02-priya-donti.jpg
@@ -2449,9 +2505,10 @@
   is_cain: false
 - id: '2023-10-19'
   date: '2023-10-19'
-  speaker: Researcher Valentin De Bortoli
+  speaker: Valentin De Bortoli
+  speaker_title: Researcher
   title: Diffusion Schrödinger Bridge Matching
-  affiliation: Google Deepmind
+  affiliation: Researcher, Google Deepmind
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-10-19-valentin-de-bortoli.jpg
@@ -2482,9 +2539,10 @@
   is_cain: false
 - id: '2023-10-05'
   date: '2023-10-05'
-  speaker: Professor Klaus-Robert Müller
+  speaker: Klaus-Robert Müller
+  speaker_title: Professor
   title: Machine Learning and AI for the Sciences — Towards Understanding
-  affiliation: TU Berlin
+  affiliation: Professor, TU Berlin
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-10-05-klaus-robert-muller.jpg
@@ -2523,9 +2581,10 @@
   is_cain: false
 - id: '2023-09-28'
   date: '2023-09-28'
-  speaker: Researcher Johan Östman
+  speaker: Johan Östman
+  speaker_title: Researcher
   title: 'The reality of federated learning: from life sciences to finance and beyond'
-  affiliation: AI Sweden
+  affiliation: Researcher, AI Sweden
   time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls backe 4)
   photo: /assets/images/speakers/2023-09-28-johan-ostman.jpg
@@ -2566,9 +2625,10 @@
   is_cain: false
 - id: '2023-09-21'
   date: '2023-09-21'
-  speaker: Postdoc Nico Lang
+  speaker: Nico Lang
+  speaker_title: Postdoc
   title: Global vegetation monitoring with probabilistic deep learning
-  affiliation: University of Copenhagen
+  affiliation: Postdoc, University of Copenhagen
   time: 15:00 CET
   location: RISE Lund Office (Scheelevägen 17)
   photo: /assets/images/speakers/2023-09-21-nico-lang.jpg
@@ -2603,9 +2663,10 @@
   is_cain: false
 - id: '2023-09-14'
   date: '2023-09-14'
-  speaker: Associate Professor Virginia Smith
+  speaker: Virginia Smith
+  speaker_title: Associate Professor
   title: Evaluating Large-Scale Learning Systems
-  affiliation: CMU
+  affiliation: Associate Professor, CMU
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-09-14-virginia-smith.jpg
@@ -2633,9 +2694,10 @@
   is_cain: false
 - id: '2023-09-07'
   date: '2023-09-07'
-  speaker: PhD candidate Adam Breitholtz
+  speaker: Adam Breitholtz
+  speaker_title: PhD candidate
   title: Unsupervised domain adaptation by learning using privileged information
-  affiliation: Chalmers University of Technology
+  affiliation: PhD candidate, Chalmers University of Technology
   time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
   photo: /assets/images/speakers/2023-09-07-adam-breitholtz.jpg
@@ -2659,9 +2721,10 @@
   is_cain: false
 - id: '2023-08-31'
   date: '2023-08-31'
-  speaker: PhD candidate Zahra Taghiyar Renan
+  speaker: Zahra Taghiyar Renan
+  speaker_title: PhD candidate
   title: From domain adaptation to federated learning
-  affiliation: Halmstad University
+  affiliation: PhD candidate, Halmstad University
   time: 15:00 CET
   location: RISE Gothenburg Office (Arvid Hedvalls Backe 4)
   photo: /assets/images/speakers/2023-08-31-zahra-taghiyar-renan.jpg
@@ -2707,10 +2770,11 @@
   is_cain: false
 - id: '2023-05-25'
   date: '2023-05-25'
-  speaker: Postdoc Puzhao Zhang
+  speaker: Puzhao Zhang
+  speaker_title: Postdoc
   title: Multi-Source Satellite Remote Sensing for Large-Scale Wildfire Burned Area
     Mapping Using Deep Learning
-  affiliation: KTH
+  affiliation: Postdoc, KTH
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-05-25-puzhao-zhang.jpg
@@ -2739,10 +2803,11 @@
   is_cain: false
 - id: '2023-05-11'
   date: '2023-05-11'
-  speaker: PhD candidate Jonathan Sauder
+  speaker: Jonathan Sauder
+  speaker_title: PhD candidate
   title: Unsupervised Deep Learning-Based 3D Mapping from Video and its Applications
     to Underwater Mapping
-  affiliation: École polytechnique fédérale de Lausanne (EPFL)
+  affiliation: PhD candidate, École polytechnique fédérale de Lausanne (EPFL)
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-05-11-jonathan-sauder.jpg
@@ -2870,10 +2935,11 @@
   is_cain: false
 - id: '2023-04-20'
   date: '2023-04-20'
-  speaker: Professor Rico Sennrich
+  speaker: Rico Sennrich
+  speaker_title: Professor
   title: 'Knowledge Transfer Across Languages and Modalities: Insights from Speech
     Translation and Sign Language Translation'
-  affiliation: University of Zurich
+  affiliation: Professor, University of Zurich
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-04-20-rico-sennrich.jpg
@@ -2898,9 +2964,10 @@
   is_cain: false
 - id: '2023-04-13'
   date: '2023-04-13'
-  speaker: PhD Candidate Elijah Cole
+  speaker: Elijah Cole
+  speaker_title: PhD Candidate
   title: Learning from real-world data
-  affiliation: Caltech
+  affiliation: PhD Candidate, Caltech
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-04-13-elijah-cole.jpg
@@ -2933,9 +3000,10 @@
   is_cain: false
 - id: '2023-03-23'
   date: '2023-03-23'
-  speaker: Post doc Gabrielle Flood
+  speaker: Gabrielle Flood
+  speaker_title: Post doc
   title: Matching and Merging of Structure from Motion Maps with Statistical Deformations
-  affiliation: Lund University
+  affiliation: Post doc, Lund University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-03-23-gabrielle-flood.jpg
@@ -2969,10 +3037,11 @@
   is_cain: false
 - id: '2023-03-16'
   date: '2023-03-16'
-  speaker: Associate Professor Stefanos Georganos
+  speaker: Stefanos Georganos
+  speaker_title: Associate Professor
   title: 'Filling the gaps: AI and Earth Observation in support of urban sustainability
     in the Global South'
-  affiliation: Karlstad University/KTH
+  affiliation: Associate Professor, Karlstad University/KTH
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-03-16-stefanos-georganos.jpg
@@ -3032,9 +3101,10 @@
   is_cain: false
 - id: '2023-02-23'
   date: '2023-02-23'
-  speaker: Professor Alexander Ilin
+  speaker: Alexander Ilin
+  speaker_title: Professor
   title: Hierarchical Imitation Learning with Vector Quantized Models
-  affiliation: Aalto University
+  affiliation: Professor, Aalto University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-02-23-alexander-ilin.jpg
@@ -3083,10 +3153,11 @@
   is_cain: false
 - id: '2023-02-02'
   date: '2023-02-02'
-  speaker: PhD Candidate Vincent Szolnoky
+  speaker: Vincent Szolnoky
+  speaker_title: PhD Candidate
   title: On the Interpretability of Regularisation for Neural Networks Through Model
     Gradient Similarity
-  affiliation: Chalmers University of Technology
+  affiliation: PhD Candidate, Chalmers University of Technology
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-02-02-vincent-szolnoky.png
@@ -3140,10 +3211,11 @@
   is_cain: false
 - id: '2023-01-19'
   date: '2023-01-19'
-  speaker: Assistant professor Giulia Fanti
+  speaker: Giulia Fanti
+  speaker_title: Assistant professor
   title: Reducing the Communication Complexity of Federated Learning through Multistage
     Optimization
-  affiliation: Carnegie Mellon University
+  affiliation: Assistant professor, Carnegie Mellon University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-01-19-giulia-fanti.jpg
@@ -3173,9 +3245,10 @@
   is_cain: false
 - id: '2023-01-12'
   date: '2023-01-12'
-  speaker: Professor Mark D. Plumbley
+  speaker: Mark D. Plumbley
+  speaker_title: Professor
   title: AI for Sound
-  affiliation: University of Surrey
+  affiliation: Professor, University of Surrey
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2023-01-12-mark-d.-plumbley.jpg
@@ -3241,9 +3314,10 @@
   is_cain: false
 - id: '2022-12-01'
   date: '2022-12-01'
-  speaker: Assistant professor Sara Beery
+  speaker: Sara Beery
+  speaker_title: Assistant professor
   title: 'Auto Arborist: Towards Mapping Urban Forests Across North America'
-  affiliation: MIT
+  affiliation: Assistant professor, MIT
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-12-01-sara-beery.jpeg
@@ -3282,9 +3356,10 @@
   is_cain: false
 - id: '2022-11-24'
   date: '2022-11-24'
-  speaker: Associate Professor Viktor Larsson
+  speaker: Viktor Larsson
+  speaker_title: Associate Professor
   title: Mapping and Localization for AR
-  affiliation: LTH
+  affiliation: Associate Professor, LTH
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-11-24-viktor-larsson.jpg
@@ -3356,9 +3431,10 @@
   is_cain: false
 - id: '2022-10-27'
   date: '2022-10-27'
-  speaker: Associate Professor Ricardo Vinuesa
+  speaker: Ricardo Vinuesa
+  speaker_title: Associate Professor
   title: Modeling and controlling turbulent flows through deep learning
-  affiliation: KTH
+  affiliation: Associate Professor, KTH
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-10-27-ricardo-vinuesa.jpg
@@ -3387,9 +3463,10 @@
   is_cain: false
 - id: '2022-10-20'
   date: '2022-10-20'
-  speaker: Professor Hedvig Kjellström
+  speaker: Hedvig Kjellström
+  speaker_title: Professor
   title: Compositional, structured, and interpretable models
-  affiliation: KTH
+  affiliation: Professor, KTH
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-10-20-hedvig-kjellstrom.jpg
@@ -3440,10 +3517,11 @@
   is_cain: false
 - id: '2022-10-13'
   date: '2022-10-13'
-  speaker: Associate Professor Tomasz Trzcinski
+  speaker: Tomasz Trzcinski
+  speaker_title: Associate Professor
   title: Zero-waste machine learning
-  affiliation: Warsaw University of Technology, Tooploox, IDEAS NCBR, Jagiellonian
-    University
+  affiliation: Associate Professor, Warsaw University of Technology, Tooploox, IDEAS
+    NCBR, Jagiellonian University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-10-13-tomasz-trzcinski.png
@@ -3477,10 +3555,11 @@
   is_cain: false
 - id: '2022-09-29'
   date: '2022-09-29'
-  speaker: Professor Jörg Tiedemann
+  speaker: Jörg Tiedemann
+  speaker_title: Professor
   title: Translations as semantic mirrors - Representation learning with multilingual
     data
-  affiliation: Helsinki University
+  affiliation: Professor, Helsinki University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-29-jorg-tiedemann.jpg
@@ -3510,9 +3589,10 @@
   is_cain: false
 - id: '2022-09-22'
   date: '2022-09-22'
-  speaker: Professor Devis Tuia
+  speaker: Devis Tuia
+  speaker_title: Professor
   title: Machine learning supporting ecology supporting machine learning
-  affiliation: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+  affiliation: Professor, Ecole Polytechnique Fédérale de Lausanne (EPFL)
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-22-devis-tuia.jpg
@@ -3537,9 +3617,10 @@
   is_cain: false
 - id: '2022-09-15'
   date: '2022-09-15'
-  speaker: PhD candidate Martin Hellkvist
+  speaker: Martin Hellkvist
+  speaker_title: PhD candidate
   title: 'Fake it until you make it: Fake features can improve estimation performance'
-  affiliation: Uppsala University
+  affiliation: PhD candidate, Uppsala University
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-15-martin-hellkvist.jpg
@@ -3602,10 +3683,11 @@
   is_cain: false
 - id: '2022-09-01'
   date: '2022-09-01'
-  speaker: PhD candidate Sofia Broomé
+  speaker: Sofia Broomé
+  speaker_title: PhD candidate
   title: 'Horses, pain and temporal information: Learning video features in low-data
     and fine-grained action recognition'
-  affiliation: Royal Institute of Technology (KTH)
+  affiliation: PhD candidate, Royal Institute of Technology (KTH)
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2022-09-01-sofia-broome.jpg
@@ -4371,9 +4453,10 @@
   is_cain: false
 - id: '2021-11-04'
   date: '2021-11-04'
-  speaker: Professor Tuomas Virtanen
+  speaker: Tuomas Virtanen
+  speaker_title: Professor
   title: An overview of various acoustic scene analysis topics
-  affiliation: Tampere University of Technology
+  affiliation: Professor, Tampere University of Technology
   time: 15:00 CET
   location: Sweden / Live Stream
   abstract: Our everyday acoustic environments contain lots of sounds that carry information
