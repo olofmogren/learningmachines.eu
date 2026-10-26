@@ -67,7 +67,11 @@ title: Upcoming Seminars
               <h2 class="seminar-title">{{ seminar.title | default: "Upcoming seminar" }}</h2>
               <div class="speaker-meta">
                 {{ seminar.speaker }}
-                {% if seminar.affiliation and seminar.affiliation != "" %}
+                {% if seminar.speaker_title and seminar.speaker_title != "" and seminar.affiliation and seminar.affiliation != "" %}
+                  <span class="affiliation">— {{ seminar.speaker_title }}, {{ seminar.affiliation }}</span>
+                {% elsif seminar.speaker_title and seminar.speaker_title != "" %}
+                  <span class="affiliation">— {{ seminar.speaker_title }}</span>
+                {% elsif seminar.affiliation and seminar.affiliation != "" %}
                   <span class="affiliation">— {{ seminar.affiliation }}</span>
                 {% endif %}
               </div>

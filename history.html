@@ -34,10 +34,10 @@ title: Seminar Archive & Recordings
             <div class="seminar-info">
               <h2 class="seminar-title">{{ seminar.title | default: "Past seminar" }}</h2>
               <div class="speaker-meta">
-                {{ seminar.speaker }}
-                {% if seminar.affiliation and seminar.affiliation != "" %}
-                  <span class="affiliation">— {{ seminar.affiliation }}</span>
-                {% endif %}
+               {{ seminar.speaker }}
+               {% if seminar.affiliation and seminar.affiliation != "" %}
+                 <span class="affiliation">— {{ seminar.affiliation }}</span>
+               {% endif %}
               </div>
               {% if seminar.abstract and seminar.abstract != "" %}
                 <p class="seminar-abstract">{{ seminar.abstract }}</p>
