@@ -615,12 +615,12 @@ body.has-hero .site-header.scrolled .brand-link {
   display: block;
 }
 .rise-logo {
-  height: 32px;
+  height: 64px;
   width: auto;
   filter: brightness(0) invert(1);
 }
 .cain-logo {
-  height: 38px;
+  height: 76px;
   width: auto;
   filter: brightness(0) invert(1);
 }
