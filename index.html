@@ -100,13 +100,17 @@ title: Upcoming Seminars
         </details>
       {% endif %}
 
-      {% if seminar.registration_url and seminar.registration_url != "" %}
-        {% unless seminar.registration_url contains "zoom.us/j/" or seminar.registration_url contains "zoom.us/my/" %}
-          <a href="{{ seminar.registration_url }}" target="_blank" rel="noopener noreferrer" class="btn-stream">
-            Register for Seminar &rarr;
-          </a>
-        {% endunless %}
-      {% endif %}
+{% assign fallback_url = "https://www.ri.se/en/learningmachinesseminars" %}
+{% assign target_link = seminar.registration_url | default: fallback_url %}
+
+{% if target_link and target_link != "" %}
+    <div class="seminar-actions" style="margin-top: 18px;">
+      <a href="{{ target_link }}" target="_blank" rel="noopener noreferrer" class="btn-stream">
+        Register for Seminar &rarr;
+      </a>
+    </div>
+{% endif %}
+
     </div>
   </div>
 </article>
