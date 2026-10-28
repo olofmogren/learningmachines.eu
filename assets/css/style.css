@@ -691,3 +691,138 @@ body.has-hero .site-header.scrolled .brand-link {
   }
 }
 
+/* RISE-inspired Contact Card */
+.contact-card-rise {
+  display: flex;
+  background-color: #fbf7ee;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-top: 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.contact-card-photo {
+  flex: 0 0 240px;
+  max-width: 240px;
+}
+
+.contact-card-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.contact-card-content {
+  flex: 1;
+  padding: 32px 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.contact-label {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 4px;
+}
+
+.contact-name {
+  font-family: var(--font-heading);
+  font-size: 1.85rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1.15;
+  margin-bottom: 4px;
+}
+
+.contact-title {
+  font-family: 'Space Grotesk', monospace, sans-serif;
+  font-size: 1.05rem;
+  color: #334155;
+  margin-bottom: 20px;
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.contact-phone {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #0f172a;
+  font-family: 'Space Grotesk', monospace, sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: #007d8a;
+  transition: color 0.2s;
+}
+
+.contact-phone:hover {
+  color: #007d8a;
+}
+
+.contact-readmore {
+  color: #0f172a;
+  font-family: 'Space Grotesk', monospace, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: #007d8a;
+  transition: color 0.2s;
+}
+
+.contact-readmore:hover {
+  color: #007d8a;
+}
+
+.contact-btn-wrap {
+  margin-top: 10px;
+}
+
+.btn-contact-rise {
+  display: inline-block;
+  background-color: #007d8a;
+  color: #ffffff !important;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.96rem;
+  padding: 10px 24px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.btn-contact-rise:hover {
+  background-color: #005c66;
+  transform: translateY(-1px);
+}
+
+/* Responsive adjustments */
+@media (max-width: 680px) {
+  .contact-card-rise {
+    flex-direction: column;
+  }
+  .contact-card-photo {
+    flex: none;
+    max-width: 100%;
+    height: 260px;
+  }
+  .contact-card-content {
+    padding: 24px;
+  }
+}
