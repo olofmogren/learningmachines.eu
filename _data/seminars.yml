@@ -6,7 +6,6 @@
   affiliation: PhD candidate, Technical University of Munich (TUM)
   time: 15:00 CET
   location: Sweden / Live Stream
-  registration_url: registration-link
   is_cain: false
 - id: '2027-01-28'
   date: '2027-01-28'
@@ -16,7 +15,6 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2027-01-28-nicola-messina.jpg
-  registration_url: registration-link
   is_cain: false
 - id: '2027-01-14'
   date: '2027-01-14'
@@ -27,7 +25,6 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2027-01-14-maria-perez-ortiz.jpg
-  registration_url: registration-link
   is_cain: false
 - id: '2026-12-17'
   date: '2026-12-17'
@@ -38,7 +35,6 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-12-17-lester-jame-miranda.jpg
-  registration_url: registration-link
   is_cain: false
 - id: '2026-12-03'
   date: '2026-12-03'
@@ -49,7 +45,6 @@
   time: 15:00 CET
   location: Sweden / Live Stream
   photo: /assets/images/speakers/2026-12-03-miguel-costa.jpg
-  registration_url: registration-link
   is_cain: false
 - id: '2026-11-05'
   date: '2026-11-05'
@@ -96,7 +91,6 @@
     assessment, population exposure estimation, and environmental health applications.
     She also develops automated and reproducible computational workflows for large-scale
     environmental data processing and analysis.
-  registration_url: registration-link
   is_cain: false
 - id: '2026-10-22'
   date: '2026-10-22'
@@ -149,7 +143,6 @@
     imaging and bio-inspired learning, including biological neural cultures as computational
     reservoirs. His work has received two paper awards; he was named a Key Innovator
     by the European Commission, and his MSCA proposal received a Seal of Excellence.
-  registration_url: registration-link
   is_cain: false
 - id: '2026-10-08'
   date: '2026-10-08'
@@ -197,7 +190,6 @@
     Rangel received the 2025 AGU Remote Sensing Student Award for RiverScope and passed
     her PhD Portfolio with Distinction. Her work has appeared at CVPR, ICCV, WACV,
     AAAI, and IEEE JSTARS, including a CVPR 2024 Highlight paper.
-  registration_url: registration-link
   is_cain: false
 - id: '2026-09-24'
   date: '2026-09-24'
@@ -230,7 +222,6 @@
     is a member of the European Laboratory for Learning and Intelligent Systems (ELLIS)
     and the Amsterdam ELLIS Unit. Her work has been published in venues such as Nature,
     ICML, AAAI, AISTATS, CVPR and FAccT.
-  registration_url: registration-link
   is_cain: false
 - id: '2026-09-17'
   date: '2026-09-17'
@@ -291,7 +282,6 @@
     \ and eddy-covariance observations. \n\nHis work now focuses on (i) applications\
     \ for ecosystem physiology predictive modelling and (ii) method development in\
     \ environmental imaging spectroscopy."
-  registration_url: registration-link
   is_cain: false
 - id: '2026-08-27'
   date: '2026-08-27'
@@ -321,7 +311,6 @@
     methods from network science and statistical physics in his current research.
     His work has been published in Science Advances and has received international
     media coverage, including features in The Guardian and El País.
-  registration_url: registration-link
   youtube_id: Ox1zIWHTnn4
   is_cain: false
 - id: '2026-06-25'
@@ -364,7 +353,6 @@
     IPCC Special Report on Climate Extremes (SREX) and was awarded the prestigious
     Gottfried Wilhelm Leibniz Prize in 2020. His groundbreaking collaborative research
     has also been supported by a major European Research Council (ERC) Synergy Grant.
-  registration_url: registration-link
   youtube_id: lPN4aVyfbD8
   is_cain: false
 - id: '2026-06-11'
@@ -399,7 +387,6 @@
     Beyond his research, he serves as a convener for the United Nations’ ITU AI for
     Good seminar series and holds visiting positions at the Institut Polytechnique
     de Paris and the Max Planck Institute. https://isp.uv.es
-  registration_url: registration-link
   youtube_id: saoF4x7ZpsQ
   is_cain: false
 - id: '2026-05-28'
@@ -434,7 +421,6 @@
     her thesis in the Oxford Applied and Theoretical Machine Learning Group on "Applied
     Machine Learning for Earth Systems Science", collaborating with the United Nations,
     European Space Agency and NASA during her PhD.
-  registration_url: registration-link
   youtube_id: v8bGOmmITJw
   is_cain: false
 - id: '2026-05-07'
@@ -608,7 +594,6 @@
     focus on spiking neural networks and deep state-space models.  She holds a Master’s
     degree in Mathematics with Honours from the University of Manchester, where she
     completed a four-year master degree with integrated bachelor degree.
-  registration_url: registration-link
   youtube_id: 7D6-hBS3cug
   is_cain: false
 - id: '2026-02-05'
@@ -643,7 +628,6 @@
     X-ray techniques for 3D and 4D imaging across scales from micro to nano and timescales
     from seconds to femtoseconds. He frequently uses synchrotron and XFEL facilities
     for his research.
-  registration_url: registration-link
   is_cain: false
 - id: '2026-01-22'
   date: '2026-01-22'
@@ -692,7 +676,6 @@
     co-founder and lead AI scientist at Clinsight AB, where she works to translate
     research innovations into clinical tools that can meaningfully impact patient
     care.
-  registration_url: registration-link
   youtube_id: kX8bNq0OKkk
   is_cain: false
 - id: '2025-12-11'
