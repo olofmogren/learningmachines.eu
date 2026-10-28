@@ -376,6 +376,22 @@ body.has-hero .site-header.scrolled .brand-link {
 .btn-stream:hover {
   background: var(--accent-cyan-hover);
 }
+/* Disabled / Pending Registration Button */
+.btn-stream.btn-disabled {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #64748b;
+  cursor: not-allowed;
+  user-select: none;
+  box-shadow: none;
+  transform: none !important;
+}
+
+.btn-stream.btn-disabled:hover {
+  background: rgba(255, 255, 255, 0.06);
+  color: #64748b;
+  box-shadow: none;
+}
 
 /* Video Wrapper */
 .video-wrapper {
